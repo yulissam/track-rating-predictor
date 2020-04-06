@@ -1,0 +1,601 @@
+"TrackID","LastfmID","Artist","Title","URL","SpotifyURL","ClipStart(s)","ClipEnd(s)"
+1,372,"Autechre","Dael","http://www.last.fm/music/autechre/_/dael","spotify:track:5z8uWv4R927ntK6jlke9yj",169.100,183.975
+2,684,"Lalo Schifrin","Music To Interrogate By","http://www.last.fm/music/lalo%2bschifrin/_/music%2bto%2binterrogate%2bby","spotify:track:0BoQLvFVHn1gOmhrPgupJv",30.000,59.925
+3,4319,"Daft Punk","Nightvision","http://www.last.fm/music/daft%2bpunk/_/nightvision","spotify:track:63JXZZRbmzooashakb0zbu",61.100,75.975
+4,5321,"Portishead","Sour Times","http://www.last.fm/music/portishead/_/sour%2btimes","spotify:track:3jD8mKsaq5iDmLhRGx9hLJ",30.025,59.950
+5,5486,"The Rolling Stones","Shine A Light","http://www.last.fm/music/the%2brolling%2bstones/_/shine%2ba%2blight","spotify:track:2buh513m5yawvYEngCrpBW",187.575,217.500
+6,5520,"Tindersticks","Travelling Light","http://www.last.fm/music/tindersticks/_/travelling%2blight","spotify:track:0xmq1eTMRrUOdxlDeUFf9R",30.025,59.950
+7,6300,"FischerSpooner","Natural Disaster","http://www.last.fm/music/fischerspooner/_/natural%2bdisaster","spotify:track:4vD6cfCdAVFGZ3ttf8kE3u",111.050,125.925
+8,6430,"Horace Silver","Que Pasa (Trio Version)","http://www.last.fm/music/horace%2bsilver/_/que%2bpasa%2b%2528trio%2bversion%2529","spotify:track:0XYtgwFlc7Xtby9uXDL3I8",59.500,89.450
+9,6829,"Janet Jackson","Someone to Call My Lover","http://www.last.fm/music/janet%2bjackson/_/someone%2bto%2bcall%2bmy%2blover","spotify:track:47Y83Em4wJ08Owm7vKHfIN",119.025,133.900
+10,9554,"Chet Baker","I Fall In Love Too Easily","http://www.last.fm/music/chet%2bbaker/_/i%2bfall%2bin%2blove%2btoo%2beasily","spotify:track:2IeEWrkgj747gIFgJxFRrK",30.000,59.925
+11,9901,"Marilyn Monroe","I Wanna Be Loved By You","http://www.last.fm/music/marilyn%2bmonroe/_/i%2bwanna%2bbe%2bloved%2bby%2byou","spotify:track:5VjYr0Si9rXu7wUtaHB42m",29.125,59.050
+12,9975,"Nirvana","Smells Like Teen Spirit","http://www.last.fm/music/nirvana/_/smells%2blike%2bteen%2bspirit","spotify:track:3oTlkzk1OtrhH8wBAduVEi",118.300,133.175
+13,10755,"Elliott Smith","Everything Means Nothing To Me","http://www.last.fm/music/elliott%2bsmith/_/everything%2bmeans%2bnothing%2bto%2bme","spotify:track:0u59AlLY8QrqIsi81vJIra",30.025,59.950
+14,11041,"Jeff Buckley","Hallelujah","http://www.last.fm/music/jeff%2bbuckley/_/hallelujah","spotify:track:1o3QRKqidRmUCdXENWAJ9e",59.975,89.925
+15,11286,"Nick Drake","Bryter Layter","http://www.last.fm/music/nick%2bdrake/_/bryter%2blayter","spotify:track:0DWDUyJCJOPhVmq8Rcfclo",69.150,84.025
+16,11722,"Soundgarden","Fresh Tendrils","http://www.last.fm/music/soundgarden/_/fresh%2btendrils","spotify:track:0BZWcTMoEFPXWe39Hcbcbv",30.025,59.950
+17,11781,"Supertramp","Dreamer","http://www.last.fm/music/supertramp/_/dreamer","spotify:track:6SmpLzVVx74Bsiqdu63f4B",30.000,59.925
+18,11977,"Turin Brakes","Underdog (Save Me)","http://www.last.fm/music/turin%2bbrakes/_/underdog%2b%2528save%2bme%2529","spotify:track:65xDUxgxVFvvQXLeIXXEqK",76.075,90.950
+19,12056,"Yann Tiersen","La Valse D'Amelie","http://www.last.fm/music/yann%2btiersen/_/la%2bvalse%2bd%2527amelie","spotify:track:1sScWpEFQBSsnwRnyFtycm",54.275,84.200
+20,13321,"Jamiroquai","Half The Man","http://www.last.fm/music/jamiroquai/_/half%2bthe%2bman","spotify:track:0kupIpkmqs4iSqp223QnuU",30.000,59.925
+21,13785,"John Coltrane","Cousin Mary","http://www.last.fm/music/john%2bcoltrane/_/cousin%2bmary","spotify:track:5rN85jOvnbRXtIbLTKsUQK",60.000,89.950
+22,15752,"Nitin Sawhney","Sunset","http://www.last.fm/music/nitin%2bsawhney/_/sunset","spotify:track:3IiQYA8KyQhk97wXDunr4t",29.350,59.275
+23,15961,"Sugababes","Freak Like Me","http://www.last.fm/music/sugababes/_/freak%2blike%2bme","spotify:track:2MGKzix09hTr2ShtdsypCC",30.400,60.325
+24,25046,"The Velvet Underground","Sweet Jane","http://www.last.fm/music/the%2bvelvet%2bunderground/_/sweet%2bjane","spotify:track:4ZmeD4yW8Ph8aJFpMZXrXA",29.750,59.675
+25,25794,"Jazzanova","Mwela, Mwela (Here I Am)","http://www.last.fm/music/jazzanova/_/mwela%252c%2bmwela%2b%2528here%2bi%2bam%2529","spotify:track:6KE48qIW7UinAfY6YmmNLe",60.150,90.100
+26,28474,"Current 93","Oh Coal Black Smith","http://www.last.fm/music/current%2b93/_/oh%2bcoal%2bblack%2bsmith","spotify:track:5Osp8jjWsNzu9yWrqqyHwf",72.175,87.050
+27,31001,"Sarah Vaughan","What More Can A Woman Do","http://www.last.fm/music/sarah%2bvaughan/_/what%2bmore%2bcan%2ba%2bwoman%2bdo","spotify:track:68dCdp8pRaXsrOaFSAuQWq",26.825,56.750
+28,31309,"Kosheen","Cover","http://www.last.fm/music/kosheen/_/cover","spotify:track:6VYfJmItMRlKLS9GYrt8Ma",30.000,59.925
+29,31892,"Black Rebel Motorcycle Club","Too Real","http://www.last.fm/music/black%2brebel%2bmotorcycle%2bclub/_/too%2breal","spotify:track:71VAx3UKZzm7kGycr5drQH",116.175,131.050
+30,31926,"Black Sabbath","War Pigs","http://www.last.fm/music/black%2bsabbath/_/war%2bpigs","spotify:track:4ZxjlxoTVWXSFJ1u7vrizm",29.650,59.600
+31,32299,"Depeche Mode","The Dead of Night","http://www.last.fm/music/depeche%2bmode/_/the%2bdead%2bof%2bnight","spotify:track:6veR8bD8yw4kROAG559KHY",29.925,44.850
+32,33254,"Everything But The Girl","Corcovado","http://www.last.fm/music/everything%2bbut%2bthe%2bgirl/_/corcovado","spotify:track:3Js7HsMNZVojRrazawn5Nv",131.025,160.950
+33,33517,"Maximilian Hecker","Cold Wind Blowing","http://www.last.fm/music/maximilian%2bhecker/_/cold%2bwind%2bblowing","spotify:track:2vW2TqX3Kh54iQxhpjYxsL",59.950,89.900
+34,33667,"Leftfield","Original","http://www.last.fm/music/leftfield/_/original","spotify:track:1CjUjnijH6TKFLvVgpIDbc",90.800,120.725
+35,33932,"Slayer","Darkness of Christ","http://www.last.fm/music/slayer/_/darkness%2bof%2bchrist","spotify:track:0lz399dL70rJekFOWikii3",30.000,59.925
+36,34178,"Dusty Springfield","The Look Of Love","http://www.last.fm/music/dusty%2bspringfield/_/the%2blook%2bof%2blove","spotify:track:3jwDffHVG8butUy9pX8Wn5",74.075,88.950
+37,35096,"Sophie Ellis-Bextor","Music Gets the Best of Me","http://www.last.fm/music/sophie%2bellis-bextor/_/music%2bgets%2bthe%2bbest%2bof%2bme","spotify:track:504KQuqyGkSg3xxN3FeSyy",29.875,59.800
+38,1000126,"Judas Priest","Breaking the Law","http://www.last.fm/music/judas%2bpriest/_/breaking%2bthe%2blaw","spotify:track:6ZOsNuqqU3Fm6VnKhia8NB",29.900,59.825
+39,1000322,"Audioslave","Cochise","http://www.last.fm/music/audioslave/_/cochise","spotify:track:1TDk2Jmi4dVZhm2dum3Jim",29.750,44.675
+40,1000569,"Coldplay","In My Place","http://www.last.fm/music/coldplay/_/in%2bmy%2bplace","spotify:track:2nvC4i2aMo4CzRjRflysah",83.100,97.975
+41,1000860,"Weezer","Slave","http://www.last.fm/music/weezer/_/slave","spotify:track:1TTzD6CVofizZm9CeTyhsG",30.000,59.925
+42,1001053,"Styx","Babe","http://www.last.fm/music/styx/_/babe","spotify:track:3wWhAsHuR5daJ5LN0WScyq",7.225,37.150
+43,1001128,"Phil Collins","I Wish It Would Rain Down","http://www.last.fm/music/phil%2bcollins/_/i%2bwish%2bit%2bwould%2brain%2bdown","spotify:track:0KdDRJfInXu99ZPCUwg4L1",133.225,148.100
+44,1001256,"Crowded House","Don't Dream It's Over","http://www.last.fm/music/crowded%2bhouse/_/don%2527t%2bdream%2bit%2527s%2bover","spotify:track:4rr67zXmEYf9ykLigeEsbv",101.200,116.075
+45,1001306,"Counting Crows","Mr. Jones","http://www.last.fm/music/counting%2bcrows/_/mr.%2bjones","spotify:track:4EjgU1gbbQFubIaCE3Ro1S",31.025,60.950
+46,1002099,"Ash","Lose Control","http://www.last.fm/music/ash/_/lose%2bcontrol","spotify:track:7zvQrFzKIi3xR4pPiqtFbf",43.075,57.950
+47,1003182,"Ben Folds Five","Kate","http://www.last.fm/music/ben%2bfolds%2bfive/_/kate","spotify:track:5IyE1u0YZOHHkLaVRV7eGy",30.225,60.150
+48,1003721,"Metallica","Loverman","http://www.last.fm/music/metallica/_/loverman","spotify:local:Metallica:Garage+Inc.:Loverman:472",30.175,45.100
+49,1004054,"Limp Bizkit","Livin' It Up","http://www.last.fm/music/limp%2bbizkit/_/livin%2527%2bit%2bup","spotify:track:66SVPP8r360cr70RXGi9q8",30.325,60.250
+50,1004460,"Primal Scream","Rocks","http://www.last.fm/music/primal%2bscream/_/rocks","spotify:track:3D0HzwuKEYmVePVqU4fcPX",30.100,60.025
+51,1004639,"EVE 6","Here's To The Night","http://www.last.fm/music/eve%2b6/_/here%2527s%2bto%2bthe%2bnight","spotify:track:4tgeQrPu5xkrnwErym2JsJ",29.975,59.900
+52,1007064,"Crash Test Dummies","Mmm Mmm Mmm Mmm","http://www.last.fm/music/crash%2btest%2bdummies/_/mmm%2bmmm%2bmmm%2bmmm","spotify:track:31v2AQlx4pDI7kmnLxBkem",30.075,60.000
+53,1007101,"Radiohead","Talk Show Host","http://www.last.fm/music/radiohead/_/talk%2bshow%2bhost","spotify:track:4PC980ogog96vWJyTNffrP",111.175,126.050
+54,1007114,"Beth Orton","Sweetest Decline","http://www.last.fm/music/beth%2borton/_/sweetest%2bdecline","spotify:track:2MWoD5vKM2Jau4VwmfxfYc",59.975,89.925
+55,1008423,"Aerosmith","Dream On","http://www.last.fm/music/aerosmith/_/dream%2bon","spotify:track:07KHJvlYBeQVqrmifTEqEp",29.825,59.750
+56,1008747,"Talking Heads","Listening Wind","http://www.last.fm/music/talking%2bheads/_/listening%2bwind","spotify:track:7b0kdHsKynK38yXakpkGTY",29.825,59.825
+57,1008987,"Live","Waitress","http://www.last.fm/music/live/_/waitress","spotify:track:6kDGzLOXx1CKAmKbjd069j",30.050,59.975
+58,1009020,"Saliva","Always","http://www.last.fm/music/saliva/_/always","spotify:track:3O1tn9nvr4NOzSMi53bF7P",30.050,59.975
+59,1010638,"Pulp","Bad Cover Version","http://www.last.fm/music/pulp/_/bad%2bcover%2bversion","spotify:track:0FdijBEcok8gfygoT9Z6Wc",30.025,59.950
+60,1010672,"Dean Martin","White Christmas","http://www.last.fm/music/dean%2bmartin/_/white%2bchristmas","spotify:local:Dean+Martin:Christmas+With+The+Rat+Pack:White+Christmas:151",30.100,60.025
+61,1011967,"Rage Against the Machine","War Within A Breath","http://www.last.fm/music/rage%2bagainst%2bthe%2bmachine/_/war%2bwithin%2ba%2bbreath","spotify:track:7CwSlTOsWsQCFK7INEZ4Yv",30.000,59.925
+62,1013359,"Don McLean","Vincent","http://www.last.fm/music/don%2bmclean/_/vincent","spotify:track:0VNzEY1G4GLqcNx5qaaTl6",30.325,60.250
+63,1014166,"Xiu Xiu","Dr. Troll","http://www.last.fm/music/xiu%2bxiu/_/dr.%2btroll","spotify:track:7It4EUUIKnxStqZNXroLlG",183.075,213.000
+64,1014501,"Rob Zombie","Dragula","http://www.last.fm/music/rob%2bzombie/_/dragula","spotify:track:26nyOCTMwcoM58PzRpsn9K",30.050,44.975
+65,1015778,"Faithless","God Is a DJ","http://www.last.fm/music/faithless/_/god%2bis%2ba%2bdj","spotify:track:5zBH9fgb37hTyIQkH5YSYJ",145.100,175.025
+66,1016950,"The Smashing Pumpkins","Stand Inside Your Love","http://www.last.fm/music/the%2bsmashing%2bpumpkins/_/stand%2binside%2byour%2blove","spotify:track:3RciEQxS7PxtLqMs7OwRsU",95.100,109.975
+67,1019028,"Steppenwolf","Magic Carpet Ride","http://www.last.fm/music/steppenwolf/_/magic%2bcarpet%2bride","spotify:track:0DgV4NEhCn83FuekfjOaeB",30.025,59.950
+68,1019880,"Better Than Ezra","Misunderstood","http://www.last.fm/music/better%2bthan%2bezra/_/misunderstood","spotify:track:2TcUYfXv8ah2qCEqOdrJV7",31.775,61.700
+69,1021542,"The Ataris","The Last Song I Will Ever Write About A Girl","http://www.last.fm/music/the%2bataris/_/the%2blast%2bsong%2bi%2bwill%2bever%2bwrite%2babout%2ba%2bgirl","spotify:track:20vzg1mHIqnuZdeafyGhMA",29.975,59.900
+70,1021572,"Pixies","Rock Music","http://www.last.fm/music/pixies/_/rock%2bmusic","spotify:track:39CBAFioBX9p2jW8lJ9pjE",25.200,40.075
+71,1021745,"The Cure","Doing The Unstuck","http://www.last.fm/music/the%2bcure/_/doing%2bthe%2bunstuck","spotify:track:2VkD8AKHzETjaQvd9Ki4dW",50.225,80.175
+72,1022521,"The Cardigans","My Favourite Game","http://www.last.fm/music/the%2bcardigans/_/my%2bfavourite%2bgame","spotify:track:0Ssq7X1zG3iUqTDEKPaT1J",30.175,60.100
+73,1022995,"Dntel","Why I'm So Unhappy","http://www.last.fm/music/dntel/_/why%2bi%2527m%2bso%2bunhappy","spotify:track:5WKJOWpDggFO4ILynbw79Z",193.125,208.000
+74,1024463,"Eva Cassidy","People Get Ready","http://www.last.fm/music/eva%2bcassidy/_/people%2bget%2bready","spotify:local:Eva+Cassidy:Eva+Cassidy%3a+Live+At+Blues+Alley:People+Get+Ready:214",35.850,65.775
+75,1024698,"Gorillaz","Sound Check (Gravity)","http://www.last.fm/music/gorillaz/_/sound%2bcheck%2b%2528gravity%2529","spotify:track:5pqw5kUCjlsbkbiSXvAJid",107.900,122.775
+76,1031146,"Hem","Lazy Eye","http://www.last.fm/music/hem/_/lazy%2beye","spotify:track:7eAS8sB2EidM9WGj3SC0Q8",30.300,60.225
+77,1031550,"Michael Jackson","Man in the Mirror","http://www.last.fm/music/michael%2bjackson/_/man%2bin%2bthe%2bmirror","spotify:track:55I6ZPux4NnreHCOct3tZP",48.000,62.925
+78,1033502,"Cat Stevens","The Wind","http://www.last.fm/music/cat%2bstevens/_/the%2bwind","spotify:track:6g5iIDU2SixRnPeUTHweiY",28.325,58.250
+79,1034163,"Apollo 440","Electro Glide In Blue","http://www.last.fm/music/apollo%2b440/_/electro%2bglide%2bin%2bblue","spotify:track:4DkXWz51t7GVv8vkN4uo29",59.975,89.925
+80,1034527,"Billy Joel","And So It Goes","http://www.last.fm/music/billy%2bjoel/_/and%2bso%2bit%2bgoes","spotify:local:Billy+Joel:Greatest+Hits%2c+Vol.+3:And+So+It+Goes:217",30.050,59.975
+81,1036514,"Machine Head","Davidian","http://www.last.fm/music/machine%2bhead/_/davidian","spotify:track:3qHlBxD3acw5nrl7Padt0v",29.700,59.625
+82,1037555,"Steely Dan","Bodhisattva","http://www.last.fm/music/steely%2bdan/_/bodhisattva","spotify:track:5hCdHSJ7a0f5TMhSdKChzT",60.100,90.050
+83,1040077,"Amon Tobin","Yasawas","http://www.last.fm/music/amon%2btobin/_/yasawas","spotify:track:34eonNTgNF4NW2PNiGKWRn",131.175,146.050
+84,1041123,"Suzanne Vega","Marlene On The Wall","http://www.last.fm/music/suzanne%2bvega/_/marlene%2bon%2bthe%2bwall","spotify:local:Suzanne+Vega:Close+Up+Vol.+1%2c+Love+Songs:Marlene+On+The+Wall:255",224.375,254.300
+85,1041534,"Miles Davis","My Funny Valentine","http://www.last.fm/music/miles%2bdavis/_/my%2bfunny%2bvalentine","spotify:track:7nU9sk3RdZm2DJZ4EHmQrF",58.625,88.575
+86,1045510,"B*Witched","C'est La Vie","http://www.last.fm/music/b%252awitched/_/c%2527est%2bla%2bvie","spotify:track:6IygJ4RpwumYNgjNmgq9ys",30.025,59.950
+87,1048131,"Alice in Chains","Them Bones","http://www.last.fm/music/alice%2bin%2bchains/_/them%2bbones","spotify:track:4IqqcZymaLzhGKIVrBURyu",29.400,59.325
+88,1052264,"Morrissey","Jack The Ripper","http://www.last.fm/music/morrissey/_/jack%2bthe%2bripper","spotify:track:0zQOfgrQvhgOKBrSDYlAr0",87.175,102.050
+89,1054661,"Creed","Don't Stop Dancing","http://www.last.fm/music/creed/_/don%2527t%2bstop%2bdancing","spotify:track:7we19flOveWnJ0tOwgzAlL",119.175,134.050
+90,1055063,"Bob Dylan","Most Of The Time","http://www.last.fm/music/bob%2bdylan/_/most%2bof%2bthe%2btime","spotify:track:1KFtOrVL68gSWGpI2r2SCu",48.050,62.975
+91,1057171,"Neutral Milk Hotel","Untitled","http://www.last.fm/music/neutral%2bmilk%2bhotel/_/untitled","spotify:track:6ofLAZtYBgfd5Ou4Fpo3um",0.125,15.000
+92,1058346,"Neil Diamond","September Morn","http://www.last.fm/music/neil%2bdiamond/_/september%2bmorn","spotify:track:1G0nEJgm8kNxtGfjklTwA9",134.025,163.950
+93,1060503,"Cake","Short Skirt/Long Jacket","http://www.last.fm/music/cake/_/short%2bskirt%252flong%2bjacket","spotify:track:3OOFEF20WqtsUPcRbPY3L7",30.000,59.925
+94,1067135,"Grateful Dead","Friend Of The Devil","http://www.last.fm/music/grateful%2bdead/_/friend%2bof%2bthe%2bdevil","spotify:track:1kMmDBfMsOrtIkKKzRIBA3",29.800,59.725
+95,1067596,"David Gray","Freedom","http://www.last.fm/music/david%2bgray/_/freedom","spotify:track:7DMBbj5ShwKOhUoi1m0OwQ",40.175,55.050
+96,1068723,"Bananarama","Venus","http://www.last.fm/music/bananarama/_/venus","spotify:track:4kxOMXF9aVjztdBVM12gbn",32.375,62.300
+97,1072633,"Scorpions","Money And Fame","http://www.last.fm/music/scorpions/_/money%2band%2bfame","spotify:track:77vFRSLmiUJOWMn3wmaScP",60.000,89.950
+98,1072948,"Secret Garden","Sona","http://www.last.fm/music/secret%2bgarden/_/sona","spotify:track:1YRAkKijSgUctYXfVLrL4X",30.025,59.950
+99,1073589,"Janis Ian","In The Winter","http://www.last.fm/music/janis%2bian/_/in%2bthe%2bwinter","spotify:track:5AkdN8byIJ6UzkoX3sQqhQ",80.000,109.925
+100,1076929,"Ornette Coleman","Lonely Woman","http://www.last.fm/music/ornette%2bcoleman/_/lonely%2bwoman","spotify:track:23aDP04QX8MAHA99FLaPtN",60.175,90.125
+101,1079948,"Nightwish","Sleeping Sun","http://www.last.fm/music/nightwish/_/sleeping%2bsun","spotify:track:2VPK0BMgwyRtx9QlyBpdb0",30.225,60.150
+102,1080006,"Fountains of Wayne","Hackensack","http://www.last.fm/music/fountains%2bof%2bwayne/_/hackensack","spotify:track:11PUdjgVfGEZLG9zs9UeTp",73.175,88.050
+103,1084025,"Cat Power","Fool","http://www.last.fm/music/cat%2bpower/_/fool","spotify:track:6fUN9abTo0R7VRinx6iyZw",97.175,112.050
+104,1084053,"Carole King","So Far Away","http://www.last.fm/music/carole%2bking/_/so%2bfar%2baway","spotify:track:62YbIHCiaZ4Nq3F0h2YkcT",198.025,227.975
+105,1086360,"Dave Matthews Band","Dancing Nancies","http://www.last.fm/music/dave%2bmatthews%2bband/_/dancing%2bnancies","spotify:track:2HIsGogtLJ40rzRNR4xt8k",48.050,62.975
+106,1088140,"Henry Mancini","The Pink Panther Theme","http://www.last.fm/music/henry%2bmancini/_/the%2bpink%2bpanther%2btheme","spotify:track:0dGKG3ssYIl692vUvwoAad",29.725,59.650
+107,1089560,"Alice Cooper","Spark In The Dark","http://www.last.fm/music/alice%2bcooper/_/spark%2bin%2bthe%2bdark","spotify:track:0SjDB6pzbMIwTATl7TyvO1",30.050,59.975
+108,1091212,"In Extremo","Omnia Sol Temperat","http://www.last.fm/music/in%2bextremo/_/omnia%2bsol%2btemperat","spotify:track:5VCXIsIvo7LFBTU7VEv04c",31.775,61.700
+109,1094947,"Something Corporate","Good News","http://www.last.fm/music/something%2bcorporate/_/good%2bnews","spotify:track:2P49AIHYd5mVta4aNB7S5i",29.825,59.750
+110,1095022,"Elton John","Believe","http://www.last.fm/music/elton%2bjohn/_/believe","spotify:track:3GS6HuRD53T46Ef3NCwmyH",30.900,60.825
+111,1095516,"Dio","Heaven and Hell","http://www.last.fm/music/dio/_/heaven%2band%2bhell","spotify:track:2AgLzi9mMpx5Wuiam8mHlF",104.800,134.750
+112,1095670,"Frou Frou","Hear Me Out","http://www.last.fm/music/frou%2bfrou/_/hear%2bme%2bout","spotify:track:1jbivhnT0Ubh1YTMVU2aTo",30.025,59.950
+113,1098897,"Manic Street Preachers","The Girl Who Wanted To Be God","http://www.last.fm/music/manic%2bstreet%2bpreachers/_/the%2bgirl%2bwho%2bwanted%2bto%2bbe%2bgod","spotify:track:7d8DTVuRpqgLA3Y1sAOAYJ",30.175,60.100
+114,1100265,"Burzum","Lost Wisdom","http://www.last.fm/music/burzum/_/lost%2bwisdom","spotify:track:7lDpLKUfOWMzLjaVEuyhCd",30.000,59.925
+115,1105207,"Hammerfall","Let the Hammer Fall","http://www.last.fm/music/hammerfall/_/let%2bthe%2bhammer%2bfall","spotify:track:3wVQqO4EK9tOK5ParfOlf8",112.125,127.000
+116,1108084,"Lifehouse","Everything","http://www.last.fm/music/lifehouse/_/everything","spotify:track:5FWasqXBCZEoUqlN0CPZm7",60.000,89.950
+117,1110726,"Theatre of Tragedy","Siren","http://www.last.fm/music/theatre%2bof%2btragedy/_/siren","spotify:track:1KiZYhtkB85pnBOOvLk6h0",59.950,89.900
+118,1113762,"A Tribe Called Quest","Description Of A Fool","http://www.last.fm/music/a%2btribe%2bcalled%2bquest/_/description%2bof%2ba%2bfool","spotify:track:3OpAPWurJ6vewMKMO07Jxx",59.775,89.725
+119,1115053,"Faith No More","Easy","http://www.last.fm/music/faith%2bno%2bmore/_/easy","spotify:track:1FVcSVHgSiNHwiOh4wLawP",30.600,60.525
+120,1115784,"Big Bad Voodoo Daddy","Jump With My Baby","http://www.last.fm/music/big%2bbad%2bvoodoo%2bdaddy/_/jump%2bwith%2bmy%2bbaby","spotify:track:3fpbCwlFiAbA2rQBH7RPTb",60.000,89.950
+121,1115812,"Lloyd Cole And The Commotions","Perfect Skin","http://www.last.fm/music/lloyd%2bcole%2band%2bthe%2bcommotions/_/perfect%2bskin","spotify:track:0luVbUXmllnYcL0V6Ce4nI",29.025,58.950
+122,1119866,"Ayreon","2084","http://www.last.fm/music/ayreon/_/2084","spotify:local:Ayreon:Universal+Migrator%2c+Vol.+1+%26+2:2084:461",199.175,214.050
+123,1120364,"Kings of Convenience","Singing Softly to Me","http://www.last.fm/music/kings%2bof%2bconvenience/_/singing%2bsoftly%2bto%2bme","spotify:track:5uoMjTnekrNCubtY9ERo8M",63.075,77.950
+124,1121367,"Kent","Dom andra","http://www.last.fm/music/kent/_/dom%2bandra","spotify:track:1yU51sZHtxvZHlni32lgxM",30.000,59.925
+125,1125865,"Lewis Black","After September 11","http://www.last.fm/music/lewis%2bblack/_/after%2bseptember%2b11","spotify:track:0fh3IDOlSiTlzOCMqFfCVW",29.950,59.875
+126,1128212,"Quiet Riot","Cum On Feel The Noize","http://www.last.fm/music/quiet%2briot/_/cum%2bon%2bfeel%2bthe%2bnoize","spotify:track:6CfjAVG9FwmwRtxE8yEWlu",29.950,59.875
+127,1129004,"No Doubt","Running","http://www.last.fm/music/no%2bdoubt/_/running","spotify:track:07OjJ31t4ytD8J4F24lSyz",30.175,60.100
+128,1129182,"Shulman","Small Grey Creatures","http://www.last.fm/music/shulman/_/small%2bgrey%2bcreatures","spotify:track:7Ma6snYhOpyviu9oBuQb01",59.975,89.925
+129,1129582,"Dan Hartman","I Can Dream About You","http://www.last.fm/music/dan%2bhartman/_/i%2bcan%2bdream%2babout%2byou","spotify:track:2cPA0enjH2vdQSyCPzCKFb",93.275,123.200
+130,1131760,"Aqua","Lollipop (Candyman)","http://www.last.fm/music/aqua/_/lollipop%2b%2528candyman%2529","spotify:track:02LmMiGpyk8CtkHUhyl1iS",30.000,59.925
+131,1134000,"Roy Orbison","Crying","http://www.last.fm/music/roy%2borbison/_/crying","spotify:track:5Hmh71s46rC8yluXJZdiIo",30.075,60.000
+132,1135814,"Days of the New","Whimsical","http://www.last.fm/music/days%2bof%2bthe%2bnew/_/whimsical","spotify:track:4suajRwi29f6O4srSJ6rLb",149.175,164.050
+133,1136299,"Kylie Minogue","Come Into My World (Fischerspooner Mix)","http://www.last.fm/music/kylie%2bminogue/_/come%2binto%2bmy%2bworld%2b%2528fischerspooner%2bmix%2529","spotify:track:4wzjsBVMgctKcOLbrp3An2",112.350,127.225
+134,1137996,"Arch Enemy","The Immortal","http://www.last.fm/music/arch%2benemy/_/the%2bimmortal","spotify:track:7kynpp78DO9rPFrJMLxYiB",94.575,109.450
+135,1139425,"Therion","To Mega Therion","http://www.last.fm/music/therion/_/to%2bmega%2btherion","spotify:track:6pRHE72qW1I17OUT65u6uv",165.175,180.050
+136,1141289,"Natalie Merchant","My Skin","http://www.last.fm/music/natalie%2bmerchant/_/my%2bskin","spotify:track:219KQPYoy3TDblJ3DCUFz4",59.950,89.900
+137,1141650,"Sting","When We Dance","http://www.last.fm/music/sting/_/when%2bwe%2bdance","spotify:track:4tIo6ti7JwZ5a4qub8nzus",170.750,200.700
+138,1141890,"Liquid Tension Experiment","Hourglass","http://www.last.fm/music/liquid%2btension%2bexperiment/_/hourglass","spotify:track:0qPgNvAcbI2mySIiDqBxIE",30.000,59.925
+139,1144776,"Night Ranger","Sister Christian","http://www.last.fm/music/night%2branger/_/sister%2bchristian","spotify:track:6LoSKNsYkRQbyuiReooMjG",30.725,60.650
+140,1146148,"DJ Food","Ninja Walk","http://www.last.fm/music/dj%2bfood/_/ninja%2bwalk","spotify:track:5ECzL4UuyTmbaPi41nIJWP",14.250,44.175
+141,1146400,"Mudvayne","Dig","http://www.last.fm/music/mudvayne/_/dig","spotify:track:7vrLphPq4yjaX7jiDdd2Nc",30.250,60.175
+142,1148986,"Mecano","Me Cuesta Tanto Olvidarte","http://www.last.fm/music/mecano/_/me%2bcuesta%2btanto%2bolvidarte","spotify:track:0stIFBwUeaH8qpFe9aPl6w",30.250,60.175
+143,1149875,"Bola","Vertiphon","http://www.last.fm/music/bola/_/vertiphon","spotify:track:3hzEt6kw83RnY6k11gylKK",59.975,89.925
+144,1150305,"Strapping Young Lad","Oh My Fucking God","http://www.last.fm/music/strapping%2byoung%2blad/_/oh%2bmy%2bfucking%2bgod","spotify:track:69job3nljY27GGElobi1aw",91.500,106.375
+145,1150351,"Elvis Costello","Veronica","http://www.last.fm/music/elvis%2bcostello/_/veronica","spotify:track:5zHgT1ibsBrSOEnQwZapto",30.075,60.000
+146,1151337,"Isis","Weight","http://www.last.fm/music/isis/_/weight","spotify:track:2crGIp8IqwGErfxbtd3psr",59.950,89.900
+147,1156771,"Cradle of Filth","Hallowed Be Thy Name","http://www.last.fm/music/cradle%2bof%2bfilth/_/hallowed%2bbe%2bthy%2bname","spotify:track:0mJUxFpEI1eAOIIfnNoZ4G",59.500,89.450
+148,1161363,"Tom Petty","Free Fallin'","http://www.last.fm/music/tom%2bpetty/_/free%2bfallin%2527","spotify:track:0I8wWFVI0SBYIrSOtSJfEL",29.950,59.875
+149,1163493,"Evanescence","Whisper","http://www.last.fm/music/evanescence/_/whisper","spotify:track:6lZBYoSUfF1eHtq9USL9RX",60.000,74.925
+150,1163790,"Acker Bilk","Stranger On The Shore","http://www.last.fm/music/acker%2bbilk/_/stranger%2bon%2bthe%2bshore","spotify:track:4NAoWiBMOS14xyFz2amZcJ",2.325,32.250
+151,1164730,"Lena Horne","Stormy Weather","http://www.last.fm/music/lena%2bhorne/_/stormy%2bweather","spotify:track:1QjjrF22DBc9KJSyVpl9Ul",8.525,38.450
+152,1168155,"Electronic","Getting Away With It","http://www.last.fm/music/electronic/_/getting%2baway%2bwith%2bit","spotify:track:58PN5YAnKBoKoWg2IHvDAM",40.475,55.400
+153,1169947,"Blindspott","Room To Breathe","http://www.last.fm/music/blindspott/_/room%2bto%2bbreathe","spotify:track:5cF39hzq6azRTG5guoFZGg",30.000,59.925
+154,1173333,"Nevermore","Believe In Nothing","http://www.last.fm/music/nevermore/_/believe%2bin%2bnothing","spotify:track:7mCvcttF6G204tzfZ6PcLK",115.200,130.075
+155,1177405,"Acid Bath","Graveflower","http://www.last.fm/music/acid%2bbath/_/graveflower","spotify:track:60UoSR2bOfPN1T9tRANTYM",59.275,89.225
+156,1179247,"Suede","We Are The Pigs","http://www.last.fm/music/suede/_/we%2bare%2bthe%2bpigs","spotify:track:6pZGLEVOTuFwY28ZM57Mm9",29.975,59.900
+157,1181959,"Figurine","International Space Station II","http://www.last.fm/music/figurine/_/international%2bspace%2bstation%2bii","spotify:track:3NEkO8yw7usZ2kM9quaAFq",30.000,59.925
+158,1190253,"George Michael","One More Try","http://www.last.fm/music/george%2bmichael/_/one%2bmore%2btry","spotify:track:1osGNZYHtFH7zlga2OFXT8",47.800,62.725
+159,1190309,"Tiamat","The Ar","http://www.last.fm/music/tiamat/_/the%2bar","spotify:local:Tiamat:Gaia+-+EP:The+Ar:205",85.175,100.050
+160,1201846,"Ozzy Osbourne","So Tired","http://www.last.fm/music/ozzy%2bosbourne/_/so%2btired","spotify:track:3NIgUBIjLCJR9xWSvw8EEG",30.400,60.325
+161,1201848,"Marlene Dietrich","Falling In Love Again","http://www.last.fm/music/marlene%2bdietrich/_/falling%2bin%2blove%2bagain","spotify:track:2daE0Ky4i4XCYyAPri8XnY",31.950,61.875
+162,1204282,"Bobby McFerrin","Don't Worry, Be Happy","http://www.last.fm/music/bobby%2bmcferrin/_/don%2527t%2bworry%252c%2bbe%2bhappy","spotify:track:5YbgcwHjQhdT1BYQ4rxWlD",180.375,210.325
+163,1210213,"Alexisonfire","Polaroids Of Polar Bears","http://www.last.fm/music/alexisonfire/_/polaroids%2bof%2bpolar%2bbears","spotify:track:1gnoVX2etZ0meCCStRW9Ji",59.975,89.925
+164,1211372,"It's A Beautiful Day","White Bird","http://www.last.fm/music/it%2527s%2ba%2bbeautiful%2bday/_/white%2bbird","spotify:track:2vI8CTwUUDqcv1nMrPNI9H",59.400,89.350
+165,1212393,"Concrete Blonde","Bloodletting (The Vampire Song)","http://www.last.fm/music/concrete%2bblonde/_/bloodletting%2b%2528the%2bvampire%2bsong%2529","spotify:track:6AJylzXwaEACLz2VBwiYMz",151.475,166.350
+166,1212997,"Ween","Awesome Sound","http://www.last.fm/music/ween/_/awesome%2bsound","spotify:track:5QJKPcUcqlVczRCckFs1hs",59.950,89.900
+167,1220551,"Sade","Paradise","http://www.last.fm/music/sade/_/paradise","spotify:track:5DUX5YEV66m0ft9SF0Zxyu",30.000,59.925
+168,1220702,"Bill Whelan","Riverdance","http://www.last.fm/music/bill%2bwhelan/_/riverdance","spotify:track:3IW1HyNymsqTDJ3BgCob0g",59.850,89.800
+169,1221317,"K's Choice","Iron Flower","http://www.last.fm/music/k%2527s%2bchoice/_/iron%2bflower","spotify:track:70JGWpQw7evdTtbLTZgSQ7",28.925,58.875
+170,1222092,"Vangelis","Freefall","http://www.last.fm/music/vangelis/_/freefall","spotify:track:6Dv7g65U5c1l9O0JJ29Yr3",30.000,59.925
+171,1235420,"Seabound","Avalost (Instrumental)","http://www.last.fm/music/seabound/_/avalost%2b%2528instrumental%2529","spotify:track:0w79RIL19x1KYl3YZrEMjX",109.175,124.050
+172,1238269,"Tesla","Paradise","http://www.last.fm/music/tesla/_/paradise","spotify:track:7KLO9PT4ATeVX5fDNzl11p",30.025,59.950
+173,1240479,"Yanni","To The One Who Knows","http://www.last.fm/music/yanni/_/to%2bthe%2bone%2bwho%2bknows","spotify:track:7lVAlNJlasZr0c3fey4Mww",62.825,92.775
+174,1242829,"Boston","Feelin' Satisfied","http://www.last.fm/music/boston/_/feelin%2527%2bsatisfied","spotify:track:1TVtxqc0yUXQqCaLZXKEm0",29.925,59.850
+175,1244264,"Sandy Denny","Late November","http://www.last.fm/music/sandy%2bdenny/_/late%2bnovember","spotify:track:3MOf5vYqpIkoFR6bBifXV6",30.000,59.925
+176,1247667,"Bruce Haack","Electric To Me Turn","http://www.last.fm/music/bruce%2bhaack/_/electric%2bto%2bme%2bturn","spotify:track:0XU6h6Pb3slkLpZhiSYR2F",29.275,59.200
+177,1250057,"Wham!","Last Christmas","http://www.last.fm/music/wham%2521/_/last%2bchristmas","spotify:track:2FRnf9qhLbvw8fu4IBXx78",29.775,44.700
+178,1251916,"Bing Crosby","I'll Be Home For Christmas","http://www.last.fm/music/bing%2bcrosby/_/i%2527ll%2bbe%2bhome%2bfor%2bchristmas","spotify:track:1O6QSDEYNxTm9SZBnH03F4",32.100,62.025
+179,1252685,"My Dying Bride","Your River","http://www.last.fm/music/my%2bdying%2bbride/_/your%2briver","spotify:local:My+Dying+Bride:The+Angel+%26+The+Dark+River:Your+River:476",222.125,237.000
+180,1255273,"Pink Martini","Sympathique","http://www.last.fm/music/pink%2bmartini/_/sympathique","spotify:track:4AFo3vOZSPm8m22EDJXphF",97.950,112.825
+181,1260778,"Prefab Sprout","When Love Breaks Down","http://www.last.fm/music/prefab%2bsprout/_/when%2blove%2bbreaks%2bdown","spotify:track:7w0Uvip9NUkLclnp5EseyE",30.325,60.250
+182,1261069,"Astrud Gilberto","The Shadow Of Your Smile","http://www.last.fm/music/astrud%2bgilberto/_/the%2bshadow%2bof%2byour%2bsmile","spotify:track:3eRUuNnqk7UQHMTyx0tDWH",29.725,59.650
+183,1263941,"Billie Holiday","I Wished On The Moon","http://www.last.fm/music/billie%2bholiday/_/i%2bwished%2bon%2bthe%2bmoon","spotify:track:5l1L3QN8wAWTxU29YRYaGo",31.325,61.250
+184,1267791,"Leonard Cohen","Dress Rehearsal Rag","http://www.last.fm/music/leonard%2bcohen/_/dress%2brehearsal%2brag","spotify:local:Leonard+Cohen:Songs+Of+Love+And+Hate:Dress+Rehearsal+Rag:366",48.700,63.625
+185,1273522,"Mark Kozelek","Up To My Neck In You","http://www.last.fm/music/mark%2bkozelek/_/up%2bto%2bmy%2bneck%2bin%2byou","spotify:track:3nKG9g0QABptYiA8rW0udg",30.000,59.925
+186,1282563,"Dar Williams","Are You Out There","http://www.last.fm/music/dar%2bwilliams/_/are%2byou%2bout%2bthere","spotify:track:3lDGTiPrSxN9cXzzkuY9H8",30.000,59.925
+187,1286913,"Charles Mingus","I'll Remember April","http://www.last.fm/music/charles%2bmingus/_/i%2527ll%2bremember%2bapril","spotify:track:5Knf2kLqR1a6uTMwmZikNY",0.050,30.000
+188,1307662,"Longwave","Tidal Wave","http://www.last.fm/music/longwave/_/tidal%2bwave","spotify:track:2Qn5VOL0e2Z7nOgs2URHi6",29.975,59.900
+189,1327558,"Goldfrapp","Hairy Trees","http://www.last.fm/music/goldfrapp/_/hairy%2btrees","spotify:track:4upQvOu7iXlwgr7E6Ir2Ku",107.075,121.950
+190,1345963,"Dave Brubeck","Blue Rondo A La Turk","http://www.last.fm/music/dave%2bbrubeck/_/blue%2brondo%2ba%2bla%2bturk","spotify:track:3cYHFvUYDVY9loQQ0LalJc",58.850,88.800
+191,1350007,"Little Richard","Long Tall Sally","http://www.last.fm/music/little%2brichard/_/long%2btall%2bsally","spotify:track:7k9gvS6i9piltSWpQItS4N",31.675,61.600
+192,1359093,"White Zombie","I'm Your Boogie Man (Sex on the Rocks mix)","http://www.last.fm/music/white%2bzombie/_/i%2527m%2byour%2bboogie%2bman%2b%2528sex%2bon%2bthe%2brocks%2bmix%2529","spotify:track:6AEjQ0OEZZ8J5Qx5kfboSB",29.850,59.775
+193,1359305,"Christina Aguilera","Keep on Singin' My Song","http://www.last.fm/music/christina%2baguilera/_/keep%2bon%2bsingin%2527%2bmy%2bsong","spotify:track:4X67RomrTRwv8GDJLYRe06",59.975,89.925
+194,1360960,"Artie Shaw","Gloomy Sunday","http://www.last.fm/music/artie%2bshaw/_/gloomy%2bsunday","spotify:track:51TaQz1WVahz5FqwQKDI0f",29.675,59.600
+195,1364730,"Mesh","The Place You Hide","http://www.last.fm/music/mesh/_/the%2bplace%2byou%2bhide","spotify:track:4iIVAQDRtbwGvJAOsi5olH",61.900,91.850
+196,1371607,"Loudon Wainwright III","Dead Skunk","http://www.last.fm/music/loudon%2bwainwright%2biii/_/dead%2bskunk","spotify:track:3NWpG50DNlO8IiVdx6Ig3w",29.925,59.850
+197,1386208,"Teenage Fanclub","Sparky's Dream","http://www.last.fm/music/teenage%2bfanclub/_/sparky%2527s%2bdream","spotify:track:1tpjZwsodyFBEo6kxrxLQr",30.025,59.950
+198,1397865,"Stereo Total","Musique Automatique","http://www.last.fm/music/stereo%2btotal/_/musique%2bautomatique","spotify:track:4MlYQoARxn0rtrEHMgQJa2",29.975,59.900
+199,1410548,"Bobby Darin","Dream Lover","http://www.last.fm/music/bobby%2bdarin/_/dream%2blover","spotify:track:6P8pNhr18copGBJqw2LEMv",30.525,60.450
+200,1412024,"Buckethead","All in the Waiting","http://www.last.fm/music/buckethead/_/all%2bin%2bthe%2bwaiting","spotify:track:0Gee0G6g6i5gg1AK8QgDlm",30.000,59.925
+201,1414615,"Primus","Making Plans For Nigel","http://www.last.fm/music/primus/_/making%2bplans%2bfor%2bnigel","spotify:track:7p2EuC9ifwIeKA4ZY8GGAa",30.025,59.950
+202,1422978,"Melanie Doane","I Can't Take My Eyes Off You","http://www.last.fm/music/melanie%2bdoane/_/i%2bcan%2527t%2btake%2bmy%2beyes%2boff%2byou","spotify:track:2SSfiRjn7n8IIdQt0jJB3I",48.050,62.975
+203,1425736,"Chris Isaak","Dancin'","http://www.last.fm/music/chris%2bisaak/_/dancin%2527","spotify:track:2pgNvzxFS8dREZxQO02g06",128.925,158.850
+204,1436616,"Bruce Springsteen","One Step Up","http://www.last.fm/music/bruce%2bspringsteen/_/one%2bstep%2bup","spotify:track:6DMaNaxAGa9S7KgapNdpL1",30.025,44.950
+205,1452008,"Anathema","J'ai Fait Une Promesse","http://www.last.fm/music/anathema/_/j%2527ai%2bfait%2bune%2bpromesse","spotify:track:7eS9OOUSvzUdDM4g0gftME",30.000,59.925
+206,1457128,"Anonymous 4","Responsory: Spiritui sancto","http://www.last.fm/music/anonymous%2b4/_/responsory%253a%2bspiritui%2bsancto","spotify:local:Anonymous+4:Four+Centuries+Of+Chant:11%2c000+Virgins%3a+I.+Responsory%3a+Spiritui+Sancto:415",59.500,89.450
+207,1473534,"Nina Simone","In The Dark","http://www.last.fm/music/nina%2bsimone/_/in%2bthe%2bdark","spotify:track:1duulOGOcetGKpQf7aeCah",25.625,40.550
+208,1480122,"Extreme","When I First Kissed You","http://www.last.fm/music/extreme/_/when%2bi%2bfirst%2bkissed%2byou","spotify:track:2wocgISnl14k77nhBLFq6l",30.025,59.950
+209,1504444,"Big Country","Close Action","http://www.last.fm/music/big%2bcountry/_/close%2baction","spotify:track:3pHxujCNKhNaDh373HvdIF",29.675,59.600
+210,1504605,"Julie London","Go Slow","http://www.last.fm/music/julie%2blondon/_/go%2bslow","spotify:track:2cccCtY1HrUTRmAQsVHQfj",30.000,59.925
+211,1512291,"Queen Latifah","When You're Good to Mama","http://www.last.fm/music/queen%2blatifah/_/when%2byou%2527re%2bgood%2bto%2bmama","spotify:local:Queen+Latifah:Music+From+The+Miramax+Motion+Picture+Chicago:When+You%27re+Good+To+Mama:199",30.000,59.925
+212,1520109,"Thelonious Monk","Functional","http://www.last.fm/music/thelonious%2bmonk/_/functional","spotify:track:0KfWp95LZdzZntS0vGNOrc",60.025,89.975
+213,1526961,"Falco","Out of the Dark","http://www.last.fm/music/falco/_/out%2bof%2bthe%2bdark","spotify:track:1rj8IwqxXTfFz4JBVArzE1",43.925,73.850
+214,1530692,"Roxy Music","A Song for Europe","http://www.last.fm/music/roxy%2bmusic/_/a%2bsong%2bfor%2beurope","spotify:track:0IFWVhzQRcFFB80dPHv5DX",59.925,89.875
+215,1540661,"Johnny Cash","Swing Low, Sweet Chariot","http://www.last.fm/music/johnny%2bcash/_/swing%2blow%252c%2bsweet%2bchariot","spotify:track:2AxgFVp3hMXejOSyotKx3C",29.700,59.625
+216,1553850,"Sun Ra","Tapestry From An Asteroid","http://www.last.fm/music/sun%2bra/_/tapestry%2bfrom%2ban%2basteroid","spotify:track:69IGfLtOgpwDG0RPYlIAyd",29.975,59.900
+217,1562629,"Harry Belafonte","Day-O (Banana Boat Song)","http://www.last.fm/music/harry%2bbelafonte/_/day-o%2b%2528banana%2bboat%2bsong%2529","spotify:track:06NrcxSt33gEfQumUkbZ1E",30.250,60.175
+218,1574991,"Washington Phillips","What Are They Doing in Heaven Today","http://www.last.fm/music/washington%2bphillips/_/what%2bare%2bthey%2bdoing%2bin%2bheaven%2btoday","spotify:track:50yKFHgXc1kv1ZBKYdXaAx",30.325,60.250
+219,1576525,"Rick Astley","Together Forever","http://www.last.fm/music/rick%2bastley/_/together%2bforever","spotify:track:1VNWaY3uNfoeWqb5U8x2QX",30.100,60.025
+220,1590215,"Arrested Development","Dawn Of The Dreads","http://www.last.fm/music/arrested%2bdevelopment/_/dawn%2bof%2bthe%2bdreads","spotify:track:0WxpIPC18kt45qbA9uPsLc",60.925,90.850
+221,1661909,"Lacrimosa","Apart","http://www.last.fm/music/lacrimosa/_/apart","spotify:track:1DoBwJeZklFEZc3Ed4v9ns",30.000,59.925
+222,1663380,"Joe Nichols","Brokenheartsville","http://www.last.fm/music/joe%2bnichols/_/brokenheartsville","spotify:track:5oz5afRJV6fAtGvfLogrmN",30.075,60.000
+223,1674263,"Wolfsheim","Angry Today","http://www.last.fm/music/wolfsheim/_/angry%2btoday","spotify:track:6Eetw6qVALt8sRvXhAfPAb",87.175,102.050
+224,1698786,"Rage","Alive But Dead","http://www.last.fm/music/rage/_/alive%2bbut%2bdead","spotify:track:6m44YKWhdKuOx8lPDL2f9K",213.700,243.650
+225,1704993,"Clifford Brown","Yesterdays","http://www.last.fm/music/clifford%2bbrown/_/yesterdays","spotify:track:3jTdPsyGaoOQQQVQGcpJ9I",141.650,171.600
+226,1725795,"Billy Talent","Prisoners of Today","http://www.last.fm/music/billy%2btalent/_/prisoners%2bof%2btoday","spotify:track:2iEiNnKtDbbRLDGMmtft19",30.000,59.925
+227,1729517,"Thomas Dolby","I Love You Goodbye","http://www.last.fm/music/thomas%2bdolby/_/i%2blove%2byou%2bgoodbye","spotify:track:6Vnrw2y15WnSlJP2bML115",147.075,161.950
+228,1768239,"Riverside","Out of Myself","http://www.last.fm/music/riverside/_/out%2bof%2bmyself","spotify:track:5X6dtcCIl0oxKcn8YE6oi8",30.000,59.925
+229,1785707,"Dee Clark","Raindrops","http://www.last.fm/music/dee%2bclark/_/raindrops","spotify:track:15Mgtv48qiYKrGuAWugXGe",30.800,60.725
+230,1817980,"Gavin DeGraw","Chariot","http://www.last.fm/music/gavin%2bdegraw/_/chariot","spotify:track:4dygMGhvfENVhwRXmAscbl",32.725,62.650
+231,1826284,"Skunk Anansie","She's My Heroine","http://www.last.fm/music/skunk%2banansie/_/she%2527s%2bmy%2bheroine","spotify:track:6su8IUvOVY1PfBIzBnUx3W",150.275,180.275
+232,1845961,"Melissa Manchester","You Should Hear How She Talks About You","http://www.last.fm/music/melissa%2bmanchester/_/you%2bshould%2bhear%2bhow%2bshe%2btalks%2babout%2byou","spotify:track:4FDRce5rrUuAbsC5VKwSkz",30.000,59.925
+233,1852273,"Carly Simon","You Belong To Me","http://www.last.fm/music/carly%2bsimon/_/you%2bbelong%2bto%2bme","spotify:track:3pErM4EiWKf3k8KU3jjbXn",47.500,62.425
+234,1870236,"Ben Webster","Stormy Weather","http://www.last.fm/music/ben%2bwebster/_/stormy%2bweather","spotify:track:5EGEMWUYnQn8k98WK7YXwK",59.975,89.925
+235,2155359,"Peter Cincotti","Come Live Your Life With Me","http://www.last.fm/music/peter%2bcincotti/_/come%2blive%2byour%2blife%2bwith%2bme","spotify:track:5Pt3x1V91c7wjofFyJj5OI",30.000,59.925
+236,2183304,"Louis Jordan","Saturday Night Fish Fry","http://www.last.fm/music/louis%2bjordan/_/saturday%2bnight%2bfish%2bfry","spotify:track:7zsU8SzWLCkBsYw9HSrvSn",60.025,89.975
+237,2188132,"Elbow","Buttons and Zips","http://www.last.fm/music/elbow/_/buttons%2band%2bzips","spotify:track:0hqi74GCfLuVhSdV5D5kJ4",30.000,59.925
+238,2350501,"Clannad","Something To Believe In","http://www.last.fm/music/clannad/_/something%2bto%2bbelieve%2bin","spotify:track:2Xkvg6Ao8O4tYX5pyOAcMF",30.150,60.075
+239,2408486,"Jacques Brel","La Fanette","http://www.last.fm/music/jacques%2bbrel/_/la%2bfanette","spotify:track:2XC48DHMqONzAC8qEuq7sN",30.000,59.925
+240,2716425,"The Gathering","Shrink","http://www.last.fm/music/the%2bgathering/_/shrink","spotify:track:73fWFk28DYGy5lIKc8eDQj",56.000,70.875
+241,2722037,"The Cranberries","Ode To My Family","http://www.last.fm/music/the%2bcranberries/_/ode%2bto%2bmy%2bfamily","spotify:track:1eQuRtkMEPhf2DGzpBVTE6",31.500,61.425
+242,2747867,"Loggins & Messina","Vahevala","http://www.last.fm/music/loggins%2b%2526%2bmessina/_/vahevala","spotify:track:355trrGrxseg5mVM6UAu1p",29.775,59.700
+243,2763602,"John Mayer","Bigger Than My Body","http://www.last.fm/music/john%2bmayer/_/bigger%2bthan%2bmy%2bbody","spotify:track:5Zz42o0LEuCk8FNJCyEu1L",29.225,59.150
+244,2767551,"Gary Puckett & The Union Gap","Young Girl","http://www.last.fm/music/gary%2bpuckett%2b%2526%2bthe%2bunion%2bgap/_/young%2bgirl","spotify:track:7Fz9STkjYOzcDM8lzEV6eQ",30.200,60.125
+245,2780012,"Sergei Prokofiev","Dance of the Knights","http://www.last.fm/music/sergei%2bprokofiev/_/dance%2bof%2bthe%2bknights","spotify:track:3lW5j4AqazRxwdVaz4svpZ",82.275,112.225
+246,2787222,"Bjrk","In The Musicals","http://www.last.fm/music/bj%25c3%25b6rk/_/in%2bthe%2bmusicals","spotify:track:5kxaKRVmWHd6zWay9ufhmB",30.175,45.100
+247,2794519,"Sarah McLachlan","Push","http://www.last.fm/music/sarah%2bmclachlan/_/push","spotify:track:4Pgs0Whe8efdOnUXcf2ytA",29.900,59.825
+248,2795521,"The Weather Girls","It's Raining Men","http://www.last.fm/music/the%2bweather%2bgirls/_/it%2527s%2braining%2bmen","spotify:track:5TgD3Wh5ZUZnUU4tmVvJbx",42.500,72.450
+249,2798406,"Patrick Wolf","Pigeon Song","http://www.last.fm/music/patrick%2bwolf/_/pigeon%2bsong","spotify:track:3XbGeKCLB32mxKrpLh23Wq",30.000,59.925
+250,2798656,"Air","Mike Mills","http://www.last.fm/music/air/_/mike%2bmills","spotify:track:4Kay0txJIyIz0c941Nurb1",101.100,115.975
+251,2799315,"Sun Kil Moon","Pancho Villa","http://www.last.fm/music/sun%2bkil%2bmoon/_/pancho%2bvilla","spotify:track:3vxSDUNGwTFhrRdMa5BMLg",59.900,89.850
+252,2800005,"I Monster","Heaven","http://www.last.fm/music/i%2bmonster/_/heaven","spotify:track:1Quyr9SIdlj23SJ2UATxDx",30.150,60.075
+253,2804343,"Teitur","To Meet You","http://www.last.fm/music/teitur/_/to%2bmeet%2byou","spotify:track:3829QJxGTAiVWJy0Z9flxI",43.100,57.975
+254,2804469,"Sheryl Crow","The First Cut Is The Deepest","http://www.last.fm/music/sheryl%2bcrow/_/the%2bfirst%2bcut%2bis%2bthe%2bdeepest","spotify:track:1G6TsOxjHCacoFy7hanxf1",29.475,59.400
+255,2804790,"Little Willie John","Fever","http://www.last.fm/music/little%2bwillie%2bjohn/_/fever","spotify:track:49v2jRZdtq8YjXumDcQTvR",29.425,59.350
+256,2805394,"Simon & Garfunkel","Richard Cory","http://www.last.fm/music/simon%2b%2526%2bgarfunkel/_/richard%2bcory","spotify:track:669jVNlVxPmrb2kN8YFq1u",58.675,88.600
+257,2817332,"Ben Folds","Learn To Live With What You Are","http://www.last.fm/music/ben%2bfolds/_/learn%2bto%2blive%2bwith%2bwhat%2byou%2bare","spotify:track:1Ly92DGCq204rppV6d8HkB",30.025,59.950
+258,2824134,"Crosby, Stills & Nash","Dark Star","http://www.last.fm/music/crosby%252c%2bstills%2b%2526%2bnash/_/dark%2bstar","spotify:track:40lm5PFVQopOYaIXmyWNS9",30.000,59.925
+259,2824460,"McCoy Tyner","Moment's Notice","http://www.last.fm/music/mccoy%2btyner/_/moment%2527s%2bnotice","spotify:track:4sAH6PBKvkAn4WBhAQugtg",318.675,348.625
+260,2834388,"Iron Maiden","Age Of Innocence","http://www.last.fm/music/iron%2bmaiden/_/age%2bof%2binnocence","spotify:track:2XhfppIXGfk6vFIeB70xt8",60.000,89.950
+261,2834595,"Element Eighty","Scars (The Echo Song)","http://www.last.fm/music/element%2beighty/_/scars%2b%2528the%2becho%2bsong%2529","spotify:track:5XiknbfYpHa13vR8jTHTPZ",30.025,59.950
+262,2838898,"Bill Medley & Jennifer Warnes","(I've Had) The Time Of My Life","http://www.last.fm/music/bill%2bmedley%2b%2526%2bjennifer%2bwarnes/_/%2528i%2527ve%2bhad%2529%2bthe%2btime%2bof%2bmy%2blife","spotify:track:5UqqOfFa9DYXALpCCF8VwB",48.725,63.650
+263,2838984,"Rufus Wainwright","Pretty Things","http://www.last.fm/music/rufus%2bwainwright/_/pretty%2bthings","spotify:track:6HoowKcp2kXk7iJCwI4A5H",30.050,59.975
+264,2855936,"The Innocence Mission","Look For Me As You Go By","http://www.last.fm/music/the%2binnocence%2bmission/_/look%2bfor%2bme%2bas%2byou%2bgo%2bby","spotify:track:70DGF817rKcHnne0hGBC1V",30.000,59.925
+265,2861181,"The Union Underground","Bitter","http://www.last.fm/music/the%2bunion%2bunderground/_/bitter","spotify:track:68B1mxBu1Eyf1Jy9Xh9Ct6",29.750,59.675
+266,2871954,"Rachael Yamagata","Worn Me Down","http://www.last.fm/music/rachael%2byamagata/_/worn%2bme%2bdown","spotify:track:1Nj52NOqOhtlEtIM3RkAia",23.950,53.875
+267,2875513,"The Tiger Lillies","Danced All Night","http://www.last.fm/music/the%2btiger%2blillies/_/danced%2ball%2bnight","spotify:track:14rMnmeyjb11moOofqNIBl",60.150,90.100
+268,2876004,"Modest Mouse","Float On","http://www.last.fm/music/modest%2bmouse/_/float%2bon","spotify:track:2lwwrWVKdf3LR9lbbhnr6R",29.575,59.500
+269,2877246,"The Von Bondies","No Regrets","http://www.last.fm/music/the%2bvon%2bbondies/_/no%2bregrets","spotify:track:39Rrr9FoMKAgLQ0VAcXGYi",29.925,59.850
+270,2880863,"Lostprophets","Burn, Burn","http://www.last.fm/music/lostprophets/_/burn%252c%2bburn","spotify:track:4hwTJMfXrDiEy6QHtSWfHS",30.000,59.925
+271,2882092,"The Moldy Peaches","Lazy Confessions","http://www.last.fm/music/the%2bmoldy%2bpeaches/_/lazy%2bconfessions","spotify:track:0JmIZUPgBN6FnQLA5ieYDv",21.350,36.225
+272,2888455,"Efterklang","Antitech","http://www.last.fm/music/efterklang/_/antitech","spotify:track:0Nu7uuH7jjBhn03bWvJlag",205.175,220.050
+273,2892893,"Katie Melua","Crawling Up A Hill","http://www.last.fm/music/katie%2bmelua/_/crawling%2bup%2ba%2bhill","spotify:track:1YCgLyXGfdCkiR4Yr4XC5E",30.200,60.125
+274,2895854,"Blondie","Good Boys","http://www.last.fm/music/blondie/_/good%2bboys","spotify:track:688O7nzghtwwaAVbhEJg6u",146.325,176.250
+275,2900395,"Natalie Imbruglia","Smoke","http://www.last.fm/music/natalie%2bimbruglia/_/smoke","spotify:track:6oEAYH8TKz720FNL8a9Nsi",46.675,61.600
+276,2910354,"Chicks On Speed","Coventry","http://www.last.fm/music/chicks%2bon%2bspeed/_/coventry","spotify:track:3ojSMiANc0gxqVkFZFuToJ",95.175,110.050
+277,2912314,"The Dresden Dolls","Girl Anachronism","http://www.last.fm/music/the%2bdresden%2bdolls/_/girl%2banachronism","spotify:track:6Zbv79YWB0iZSXwIwEsIOP",29.975,59.900
+278,2936943,"Nick Lachey","This I Swear","http://www.last.fm/music/nick%2blachey/_/this%2bi%2bswear","spotify:track:0m6kLPoIRH6iRcGDOWWcY8",30.000,59.925
+279,2939856,"Cinderella","Hell On Wheels","http://www.last.fm/music/cinderella/_/hell%2bon%2bwheels","spotify:track:27bQljFgtuK6G0cFAACKk9",30.025,59.950
+280,2953153,"Dizzy Gillespie","One Note Samba","http://www.last.fm/music/dizzy%2bgillespie/_/one%2bnote%2bsamba","spotify:track:5KlcJaTlTuiNEI2XHrw5Qc",60.175,90.125
+281,2963248,"The Real Tuesday Weld","Bathtime In Clerkenwell","http://www.last.fm/music/the%2breal%2btuesday%2bweld/_/bathtime%2bin%2bclerkenwell","spotify:track:4U3eg1V0JJ98cuBR075yKe",55.175,70.050
+282,2992311,"Doris Day","Secret Love","http://www.last.fm/music/doris%2bday/_/secret%2blove","spotify:track:0rczbzMWPowHyUIfwDOzm4",29.650,59.575
+283,3001204,"Jeff Wayne","Forever Autumn","http://www.last.fm/music/jeff%2bwayne/_/forever%2bautumn","spotify:track:3cscFxpX9fcmhiniTzF7n4",53.575,68.500
+284,3012476,"Incubus","A Crow Left Of The Murder","http://www.last.fm/music/incubus/_/a%2bcrow%2bleft%2bof%2bthe%2bmurder","spotify:track:3yzlhgWFyMCyYg4dGHdmdp",30.000,59.925
+285,3016480,"Tommy Dorsey","Opus One","http://www.last.fm/music/tommy%2bdorsey/_/opus%2bone","spotify:track:6aL2152E1y6ehADaB4qGWT",29.575,59.500
+286,3025907,"Knorkator","Das Lied","http://www.last.fm/music/knorkator/_/das%2blied","spotify:track:3jp9c8ivr5Y2hwn3PtKhVm",30.025,59.950
+287,3029957,"Stan Getz","O Morro Nao Tem Vez","http://www.last.fm/music/stan%2bgetz/_/o%2bmorro%2bnao%2btem%2bvez","spotify:track:5VN5SFF6GJ6YFLm3wH7IeT",60.275,90.225
+288,3036431,"Don Johnson Big Band","Nightman","http://www.last.fm/music/don%2bjohnson%2bbig%2bband/_/nightman","spotify:track:1FUQ7uAMGUD5MtTcKT3iWs",60.000,89.950
+289,3042191,"Aqualung","Good Goodnight","http://www.last.fm/music/aqualung/_/good%2bgoodnight","spotify:track:3L5FOgAjuwNi1c7po0eu6V",30.000,59.925
+290,3042296,"The Tubes","White Punks On Dope","http://www.last.fm/music/the%2btubes/_/white%2bpunks%2bon%2bdope","spotify:track:75CUVCYbVVBLiPTR1cAmxG",57.875,87.825
+291,3056531,"Laura Pausini","Cuando Se Ama","http://www.last.fm/music/laura%2bpausini/_/cuando%2bse%2bama","spotify:track:3FGkrC6oZKXSHcLojBAUg3",62.800,77.675
+292,3059788,"REO Speedwagon","One Lonely Night","http://www.last.fm/music/reo%2bspeedwagon/_/one%2blonely%2bnight","spotify:track:3G9d7vS5Rhq3YNy38FTmKA",30.225,60.150
+293,3089521,"White Lion","Broken Heart","http://www.last.fm/music/white%2blion/_/broken%2bheart","spotify:track:1AZ1ND0flYv1XP8Y2trDB7",21.125,51.050
+294,3109272,"Lycia","December","http://www.last.fm/music/lycia/_/december","spotify:track:3YSVOkVJ9iaQ4jkoC3dyOn",60.050,90.000
+295,3112135,"Dock Boggs","Pretty Polly","http://www.last.fm/music/dock%2bboggs/_/pretty%2bpolly","spotify:track:0xaHlB6fWz9WrxvfBe8Nog",23.775,53.700
+296,3129915,"R.E.M.","Airportman","http://www.last.fm/music/r.e.m./_/airportman","spotify:track:6nFoE0GrllihnUx9GMPsJ6",30.150,60.150
+297,3135497,"Diamond Head","It's Electric","http://www.last.fm/music/diamond%2bhead/_/it%2527s%2belectric","spotify:track:1B4bNI8auV8a9t4Y0FJhHd",182.625,212.625
+298,3143073,"Vienna Teng","Mission Street","http://www.last.fm/music/vienna%2bteng/_/mission%2bstreet","spotify:track:5m87PwhnFomC1o4877D6r0",30.000,59.925
+299,3147313,"Dolores Keane","Never Be The Sun","http://www.last.fm/music/dolores%2bkeane/_/never%2bbe%2bthe%2bsun","spotify:track:7n3P0hwLMJV4KR0NS7n3tZ",29.625,59.550
+300,3151296,"The Runaways","Born To Be Bad","http://www.last.fm/music/the%2brunaways/_/born%2bto%2bbe%2bbad","spotify:track:3aGveSIKXiDVhDzix4dw07",29.675,59.600
+301,3181090,"Brian Wilson","Good Vibrations","http://www.last.fm/music/brian%2bwilson/_/good%2bvibrations","spotify:track:3zXecLRbshtXSqbTWeoQ2Y",16.150,31.025
+302,3191278,"Laura Fygi","Good Morning Heartache","http://www.last.fm/music/laura%2bfygi/_/good%2bmorning%2bheartache","spotify:track:2Znr9pENPpiTidCMxkMCGX",29.775,59.700
+303,3195258,"Blood, Sweat & Tears","Go Down Gamblin'","http://www.last.fm/music/blood%252c%2bsweat%2b%2526%2btears/_/go%2bdown%2bgamblin%2527","spotify:track:4gJBvcOyyGWT79f6TKsCqV",29.950,59.875
+304,3199338,"Martin L. Gore","Motherless Child","http://www.last.fm/music/martin%2bl.%2bgore/_/motherless%2bchild","spotify:track:4gDx4ctCrMHsf7oDTc1rgo",30.025,59.950
+305,3203739,"Erin McKeown","Born To Hum","http://www.last.fm/music/erin%2bmckeown/_/born%2bto%2bhum","spotify:track:4yW89GScTys4lYfLv0c9eM",130.900,160.825
+306,3204151,"Finntroll","Trollhammaren","http://www.last.fm/music/finntroll/_/trollhammaren","spotify:track:4qEHUjOale4SsjwwR8Xw3v",30.000,59.925
+307,3223123,"Butterfly Boucher","Life Is Short","http://www.last.fm/music/butterfly%2bboucher/_/life%2bis%2bshort","spotify:track:1VLuXeMDR022bBHxxxL4FT",29.725,59.650
+308,3223138,"Magnet","On Your Side","http://www.last.fm/music/magnet/_/on%2byour%2bside","spotify:track:76szzyLIsNJTMkW0Y7Mopv",59.975,89.925
+309,3234344,"Louis Armstrong","Loveless Love","http://www.last.fm/music/louis%2barmstrong/_/loveless%2blove","spotify:track:1Yw2NPxVKZFOfUDsUMADha",29.875,59.800
+310,3239850,"Brenda Russell","Get Here","http://www.last.fm/music/brenda%2brussell/_/get%2bhere","spotify:track:6KCMrBdmSIpAE9ILxggO12",30.025,59.950
+311,3247395,"Acoustic Alchemy","Lazeez","http://www.last.fm/music/acoustic%2balchemy/_/lazeez","spotify:track:2Wtj3bGgiU63pzkB3sHr5k",59.975,89.925
+312,3259922,"AGF","letsGO!","http://www.last.fm/music/agf/_/letsgo%2521","spotify:track:1NhKgqFxW21okQaNS6QyCh",30.000,59.925
+313,3267180,"Nancy Sinatra","Things","http://www.last.fm/music/nancy%2bsinatra/_/things","spotify:track:0Mr62JEJ5qnA5D8R3TeZkw",29.975,59.900
+314,3268553,"In Flames","Swim","http://www.last.fm/music/in%2bflames/_/swim","spotify:track:2efgCAqMCaFHGhaY4OXOOw",81.200,96.075
+315,3268798,"Kenny Nolan","I Like Dreamin'","http://www.last.fm/music/kenny%2bnolan/_/i%2blike%2bdreamin%2527","spotify:track:2uIdLO6z0PCjgEstYWsCaB",115.275,145.200
+316,3351577,"Vinicio Capossela","Il Ballo Di San Vito","http://www.last.fm/music/vinicio%2bcapossela/_/il%2bballo%2bdi%2bsan%2bvito","spotify:track:5X473BZuVqHcxJahwTAeQ9",77.350,107.275
+317,3364548,"Rocketship","Carrie Cooksey","http://www.last.fm/music/rocketship/_/carrie%2bcooksey","spotify:track:4NFAzGVz6z75XMmw0uxMch",30.000,59.925
+318,3386058,"Cheap Trick","Scent Of A Woman","http://www.last.fm/music/cheap%2btrick/_/scent%2bof%2ba%2bwoman","spotify:track:4BfPmA5Cz7LFzXccn36NTl",30.000,59.925
+319,3390425,"The Alan Parsons Project","What Goes Up","http://www.last.fm/music/the%2balan%2bparsons%2bproject/_/what%2bgoes%2bup","spotify:track:5swQTZXYY9kzQiYtUo9Itm",39.675,69.600
+320,3402840,"Karsh Kale","One Step Beyond","http://www.last.fm/music/karsh%2bkale/_/one%2bstep%2bbeyond","spotify:track:0CT4OgjLkUJbwYoKtO6t89",59.975,89.925
+321,3439084,"Weather Report","The Moors","http://www.last.fm/music/weather%2breport/_/the%2bmoors","spotify:track:3Y6TZBbAoAachXuy6So4Xu",29.450,59.375
+322,3458176,"Miss Kittin","Dub About Me","http://www.last.fm/music/miss%2bkittin/_/dub%2babout%2bme","spotify:track:7H9Exl7mROIY42z687MCgz",185.400,200.275
+323,3481095,"Al Green","Soon As I Get Home","http://www.last.fm/music/al%2bgreen/_/soon%2bas%2bi%2bget%2bhome","spotify:track:0O3EHu9UhBr5QrCEakWV3I",30.000,59.925
+324,3541988,"Billy Joe Royal","Down In The Boondocks","http://www.last.fm/music/billy%2bjoe%2broyal/_/down%2bin%2bthe%2bboondocks","spotify:track:3sJIuAtweMA8dpAayT8Qnc",27.725,57.650
+325,3550528,"Peggy Lee","It's a Good Day","http://www.last.fm/music/peggy%2blee/_/it%2527s%2ba%2bgood%2bday","spotify:track:3LBdLmmd2P9yeNpsDHpFkh",29.800,59.725
+326,3564689,"Keith Mansfield","Step Forward","http://www.last.fm/music/keith%2bmansfield/_/step%2bforward","spotify:track:3xMwfiGc2acWW34UZsBhWg",30.050,59.975
+327,3639781,"Gabriel & Dresden","Lament (Dub 4 Satoshi)","http://www.last.fm/music/gabriel%2b%2526%2bdresden/_/lament%2b%2528dub%2b4%2bsatoshi%2529","spotify:track:3tF0Pl3h3sYeh6jNufrjPO",59.975,89.925
+328,3662966,"Beatallica","Sandman","http://www.last.fm/music/beatallica/_/sandman","spotify:track:6ZYeQKHaEkjQkn4yrx5A4X",29.975,59.900
+329,4010320,"The Twilight Singers","Black Is The Color Of My True Love's Hair","http://www.last.fm/music/the%2btwilight%2bsingers/_/black%2bis%2bthe%2bcolor%2bof%2bmy%2btrue%2blove%2527s%2bhair","spotify:track:30bXWZ3iBHy6ulfaGDTwtX",101.175,116.050
+330,4074700,"Thin Lizzy","Still In Love With You","http://www.last.fm/music/thin%2blizzy/_/still%2bin%2blove%2bwith%2byou","spotify:track:58QdPjE9DvL6RabAdXhGxb",60.000,89.950
+331,4097615,"Blasphemy","Nocturnal Slayer","http://www.last.fm/music/blasphemy/_/nocturnal%2bslayer","spotify:track:7JrRb9ZX4qfFKAwX3nNo52",30.000,59.925
+332,4151160,"Shade Empire","Human Sculpture","http://www.last.fm/music/shade%2bempire/_/human%2bsculpture","spotify:track:5hLuI4suS79YBba4z6JWgS",29.975,59.900
+333,4279206,"Fruko Y Sus Tesos","El Preso","http://www.last.fm/music/fruko%2by%2bsus%2btesos/_/el%2bpreso","spotify:track:54PKs7ZlncfruF06oEFqCs",29.900,59.825
+334,4385496,"Seu Jorge","Mangueira","http://www.last.fm/music/seu%2bjorge/_/mangueira","spotify:track:17gko3deof7vpvtTHO4cNr",29.975,59.900
+335,4424408,"Bryan Ferry","Where Or When","http://www.last.fm/music/bryan%2bferry/_/where%2bor%2bwhen","spotify:track:3jNHEvUIpuaCNRE5niLPqB",69.175,84.050
+336,4442332,"Eartha Kitt","Champagne Taste","http://www.last.fm/music/eartha%2bkitt/_/champagne%2btaste","spotify:track:4uWU5yNaXdszGNRfbONP1H",29.975,59.900
+337,4447351,"Uriah Heep","On The Rebound","http://www.last.fm/music/uriah%2bheep/_/on%2bthe%2brebound","spotify:track:1kpZqyXrDRSzyH3WwZXK4y",33.400,63.325
+338,4464245,"Red Harvest","Cold Dark Matter","http://www.last.fm/music/red%2bharvest/_/cold%2bdark%2bmatter","spotify:track:3Vipl9c5KM3IRvHKWryFAh",30.000,59.925
+339,4585759,"Alkaline Trio","Wait For The Blackout","http://www.last.fm/music/alkaline%2btrio/_/wait%2bfor%2bthe%2bblackout","spotify:track:1gnlChNDKTq19tRUSgbRaW",29.750,59.675
+340,4594120,"Haggard","Eppur Si Muove","http://www.last.fm/music/haggard/_/eppur%2bsi%2bmuove","spotify:track:5DSiDErWt9J85KvAWO8zRz",48.050,62.975
+341,4635604,"Datarock","Computer Camp Love","http://www.last.fm/music/datarock/_/computer%2bcamp%2blove","spotify:track:1FCkMM7GmqYq4woVkwLPRe",30.000,59.925
+342,4707140,"Celtic Spirit","Ailein Duinn","http://www.last.fm/music/celtic%2bspirit/_/ailein%2bduinn","spotify:track:1DzwJZ7VdrzWfFrB4PczOb",31.775,61.700
+343,4785014,"Ella Fitzgerald","Into Each Life Some Rain Must Fall","http://www.last.fm/music/ella%2bfitzgerald/_/into%2beach%2blife%2bsome%2brain%2bmust%2bfall","spotify:track:7kpTRbiZw9w98Ybgjj5Cw9",29.300,59.225
+344,4873824,"Vashti Bunyan","Winter Is Blue","http://www.last.fm/music/vashti%2bbunyan/_/winter%2bis%2bblue","spotify:track:5SddoLK7ZYPvR8m242ANdl",22.175,37.050
+345,5154789,"Michael Gira","You See Through Me","http://www.last.fm/music/michael%2bgira/_/you%2bsee%2bthrough%2bme","spotify:track:1lOms3LsOQrk0GDyJFkGHD",59.975,89.925
+346,5208434,"The Mills Brothers","Till Then","http://www.last.fm/music/the%2bmills%2bbrothers/_/till%2bthen","spotify:track:0amApclu4tm6wc28eBBwgI",29.675,59.600
+347,5256552,"Pat Benatar","So Sincere","http://www.last.fm/music/pat%2bbenatar/_/so%2bsincere","spotify:track:33IDIH6cuyfQWhJ2GmB59D",30.000,59.925
+348,5279072,"Nat King Cole","Autumn Leaves","http://www.last.fm/music/nat%2bking%2bcole/_/autumn%2bleaves","spotify:track:5G7UB8NJpUIpPzkbo6wNPc",29.750,59.675
+349,5356917,"Lara Fabian","Yeliel (My Angel)","http://www.last.fm/music/lara%2bfabian/_/yeliel%2b%2528my%2bangel%2529","spotify:track:6SXlRUa0mXjvBvbrnwOxWp",59.975,89.925
+350,6614001,"Ray Charles","You Win Again","http://www.last.fm/music/ray%2bcharles/_/you%2bwin%2bagain","spotify:local:Ray+Charles:Modern+Sounds+in+Country+%26+Western+Music:You+Win+Again:211",30.000,59.925
+351,6664989,"Jahcoozi","Fish","http://www.last.fm/music/jahcoozi/_/fish","spotify:track:5MUDqDFBawzaDpKzVuk6bv",29.975,59.900
+352,6743222,"Megadeth","The Scorpion","http://www.last.fm/music/megadeth/_/the%2bscorpion","spotify:track:4nJ9Mp3qVpu03ZRx7IppOM",60.025,74.950
+353,6760494,"k.d. lang","Love Is Everything","http://www.last.fm/music/k.d.%2blang/_/love%2bis%2beverything","spotify:track:35QzRJdcu0opkVRbgMuUmH",55.050,69.975
+354,6764504,"Way Out West","Don't Forget Me","http://www.last.fm/music/way%2bout%2bwest/_/don%2527t%2bforget%2bme","spotify:track:6vSmbrcdlXDEkQ8VAHK4Nl",60.000,89.950
+355,6932324,"Art Garfunkel","The 59th Street Bridge Song (Feelin' Groovy)","http://www.last.fm/music/art%2bgarfunkel/_/the%2b59th%2bstreet%2bbridge%2bsong%2b%2528feelin%2527%2bgroovy%2529","spotify:track:369zHCpe0wbPvHYIraUEla",30.000,59.925
+356,6998747,"Tift Merritt","Stray Paper","http://www.last.fm/music/tift%2bmerritt/_/stray%2bpaper","spotify:track:6QxY0XkqEkEMS8djPe7bGz",30.025,59.950
+357,7228893,"Alter Bridge","In Loving Memory","http://www.last.fm/music/alter%2bbridge/_/in%2bloving%2bmemory","spotify:track:77az5nAcw56LQinVNdzs5V",153.175,168.050
+358,7264570,"Bruce Robison","Desperately","http://www.last.fm/music/bruce%2brobison/_/desperately","spotify:track:3gJvgLvNIyZNRg2BNDjbyz",30.000,59.925
+359,7361124,"Natasha Bedingfield","I Bruise Easily","http://www.last.fm/music/natasha%2bbedingfield/_/i%2bbruise%2beasily","spotify:track:0qEf3Dl8LK5hfbH4xbLoOg",75.550,105.500
+360,7666896,"David Hudson","Split Rock","http://www.last.fm/music/david%2bhudson/_/split%2brock","spotify:local:David+Hudson:Hudson+%2f+Roach%3a+Gunyal:Split+Rock:361",71.525,101.475
+361,7742268,"Sonata Arctica","Shamandalie","http://www.last.fm/music/sonata%2barctica/_/shamandalie","spotify:track:0Tap5vWEsz0lpfnGax7355",104.200,119.075
+362,7783387,"Deuter","Abendschatten","http://www.last.fm/music/deuter/_/abendschatten","spotify:track:1Vj5EjydoRCtE9sCCz38MV",59.975,89.925
+363,7896383,"Ville Valo","Ikkunaprinsessa","http://www.last.fm/music/ville%2bvalo/_/ikkunaprinsessa","spotify:track:4YEElRasVI9r2jDWMlFJcq",30.000,59.925
+364,7901265,"Ray LaMontagne","Forever My Friend","http://www.last.fm/music/ray%2blamontagne/_/forever%2bmy%2bfriend","spotify:track:2KWyWyPGBUe31m35AcfMku",43.050,57.975
+365,7989794,"Red Garland","Almost Like Being in Love","http://www.last.fm/music/red%2bgarland/_/almost%2blike%2bbeing%2bin%2blove","spotify:track:75tvFvKAt3gRZUspAQDQ7Z",30.000,59.925
+366,8036099,"Annie","Me Plus one","http://www.last.fm/music/annie/_/me%2bplus%2bone","spotify:track:2sJpSF3Oe2wNmReeTVV3wg",43.150,58.025
+367,8042642,"Kalin Twins","When","http://www.last.fm/music/kalin%2btwins/_/when","spotify:track:61Ok14LV6lwK1Fh8KPbofp",29.475,59.400
+368,8118676,"Samael","As the Sun","http://www.last.fm/music/samael/_/as%2bthe%2bsun","spotify:track:3hzhULbxiYuCPdMXqEUdck",78.175,93.050
+369,8233249,"Duran Duran","Point Of No Return","http://www.last.fm/music/duran%2bduran/_/point%2bof%2bno%2breturn","spotify:track:1Dl0qAxmuk3j7wBOF5JvdJ",30.000,59.925
+370,8236860,"Rishloo","Romance of a Dead Kingdom","http://www.last.fm/music/rishloo/_/romance%2bof%2ba%2bdead%2bkingdom","spotify:track:76MI1nadCIiBtVZa39bK54",30.000,59.925
+371,8318814,"Diana Krall","The Boy From Ipanema","http://www.last.fm/music/diana%2bkrall/_/the%2bboy%2bfrom%2bipanema","spotify:track:3hlaxAsBTOtSt4gNKlhz6V",29.850,59.775
+372,8398655,"Against Me!","Problems","http://www.last.fm/music/against%2bme%2521/_/problems","spotify:track:2piHoZlcfq0syXqDzdhLdZ",29.975,59.900
+373,8398660,"Juli","Warum","http://www.last.fm/music/juli/_/warum","spotify:track:05HuwQtlGkZFmX1KhkbOY3",30.175,45.100
+374,8489409,"Dee Dee Bridgewater","Afro Blue","http://www.last.fm/music/dee%2bdee%2bbridgewater/_/afro%2bblue","spotify:track:7aZNWyoqu5LUTgXCwZ4HmX",60.000,89.950
+375,8602466,"Ray Anthony","Christmas Trumpets We Wish You A Very Merry Christmas [#]","http://www.last.fm/music/ray%2banthony/_/christmas%2btrumpets%2bwe%2bwish%2byou%2ba%2bvery%2bmerry%2bchristmas%2b%255b%2523%255d","spotify:track:22NX1z4sx8H1Y2xjNT6Ulv",30.000,59.925
+376,8651383,"Madeleine Peyroux","Dance Me To The End Of Love","http://www.last.fm/music/madeleine%2bpeyroux/_/dance%2bme%2bto%2bthe%2bend%2bof%2blove","spotify:track:6UXHD2nc9gmwxLlLv9GiCi",75.350,105.275
+377,8807785,"Chris Botti","When I Fall In Love","http://www.last.fm/music/chris%2bbotti/_/when%2bi%2bfall%2bin%2blove","spotify:track:5BxxMfhSZdpecZURZeRPOg",60.000,89.950
+378,8822462,"Fektion Fekler","Generations","http://www.last.fm/music/fektion%2bfekler/_/generations","spotify:track:51HqXksMIqAEgyx8Y4J5Sd",59.975,89.925
+379,9032964,"Captain Beefheart & His Magic Band","Owed T'alex","http://www.last.fm/music/captain%2bbeefheart%2b%2526%2bhis%2bmagic%2bband/_/owed%2bt%2527alex","spotify:local:Captain+Beefheart+%26+His+Magic+Band:Dust+Sucker:Owed+T%27Alex:205",30.000,59.925
+380,9355308,"Diary Of Dreams","Dead Letter","http://www.last.fm/music/diary%2bof%2bdreams/_/dead%2bletter","spotify:track:0iR4kkhvVDkOf3FOQmcPkk",201.175,216.050
+381,9358823,"James Blunt","Goodbye My Lover","http://www.last.fm/music/james%2bblunt/_/goodbye%2bmy%2blover","spotify:track:3M7Ab3IGSb7vNoLWqDbXVF",20.175,50.100
+382,9483216,"Queens of the Stone Age","In My Head","http://www.last.fm/music/queens%2bof%2bthe%2bstone%2bage/_/in%2bmy%2bhead","spotify:track:5cABednUSqT0uMbl1s2nN6",29.025,58.950
+383,9501364,"Trespassers William","What Could I Say","http://www.last.fm/music/trespassers%2bwilliam/_/what%2bcould%2bi%2bsay","spotify:track:4GWHkTqccXu3q5pwz4HWLu",59.950,89.900
+384,9518069,"Isaac Hayes","Rolling Down A Mountainside","http://www.last.fm/music/isaac%2bhayes/_/rolling%2bdown%2ba%2bmountainside","spotify:track:04rn9RhNxTqqdLISkz7m13",60.000,89.950
+385,9703105,"Lisa Lynne","Still I Will","http://www.last.fm/music/lisa%2blynne/_/still%2bi%2bwill","spotify:track:3RCCwKaoZHJWbialHVKWGY",30.000,59.925
+386,9771106,"Gwen Stefani","Hollaback Girl","http://www.last.fm/music/gwen%2bstefani/_/hollaback%2bgirl","spotify:track:0eqH0ALoDQevq59YcQ53KE",69.150,84.025
+387,10242375,"Ferrante & Teicher","Midnight Cowboy","http://www.last.fm/music/ferrante%2b%2526%2bteicher/_/midnight%2bcowboy","spotify:track:5za9NyS0nZ0nctCyuYh5GI",68.075,82.950
+388,10437201,"Special Needs","Blue Skies","http://www.last.fm/music/special%2bneeds/_/blue%2bskies","spotify:track:06yp9CHhcRxm3t2z2p2OlZ",29.900,59.825
+389,10509318,"Clare Fader","Animal Charm","http://www.last.fm/music/clare%2bfader/_/animal%2bcharm","spotify:track:0lJrSL1NxTR5bEsIzlW68Z",30.000,59.925
+390,10513821,"Anouk","Lost","http://www.last.fm/music/anouk/_/lost","spotify:track:71auqO0KEjvtNxlUcfUOjl",82.575,97.450
+391,10748131,"Electrocute","Cops Copulating","http://www.last.fm/music/electrocute/_/cops%2bcopulating","spotify:track:09btnQoMFm8YVE6trzVS7Z",29.975,59.900
+392,10811820,"Tristania","Cure","http://www.last.fm/music/tristania/_/cure","spotify:track:1jrIQQmnaLbxVhL3qzEIyB",149.175,164.050
+393,10835515,"Ennio Morricone","Ultimo Arlecchino","http://www.last.fm/music/ennio%2bmorricone/_/ultimo%2barlecchino","spotify:track:5iPYzS2vrKmxmlfK3n7438",34.325,64.250
+394,10962525,"808 State","808080808","http://www.last.fm/music/808%2bstate/_/808080808","spotify:track:1UoL19rloSmwJBjhSf8CVt",37.725,67.650
+395,11248178,"Muse","Crying Shame","http://www.last.fm/music/muse/_/crying%2bshame","spotify:track:6tO4ZIVJ7MBC21O6oa7PlP",43.050,57.975
+396,11828002,"The Swingle Singers","Soul Bossa Nova","http://www.last.fm/music/the%2bswingle%2bsingers/_/soul%2bbossa%2bnova","spotify:track:54Bz68M5S0EY7fW9bw30qm",30.000,59.925
+397,11838822,"Edan","Fumbling Over Words That Rhyme","http://www.last.fm/music/edan/_/fumbling%2bover%2bwords%2bthat%2brhyme","spotify:track:3FnzzFJxIrcIxQ3JJNFalO",30.000,59.925
+398,11943553,"Tom Vek","C-C (You Set The Fire In Me)","http://www.last.fm/music/tom%2bvek/_/c-c%2b%2528you%2bset%2bthe%2bfire%2bin%2bme%2529","spotify:track:7kzTpKLeY8BGJ62NOxS025",29.325,59.250
+399,12080269,"Killswitch Engage","Inhale","http://www.last.fm/music/killswitch%2bengage/_/inhale","spotify:track:0ZRjM8r3FMkx8gCZO4pwSX",30.025,59.950
+400,12172649,"The Postal Service","Be Still My Heart","http://www.last.fm/music/the%2bpostal%2bservice/_/be%2bstill%2bmy%2bheart","spotify:track:24q5I6yuarelPx8SzCqnVg",29.950,59.875
+401,12272384,"Moby","I Like It","http://www.last.fm/music/moby/_/i%2blike%2bit","spotify:track:2uzLtyIQH8UjaO3yrmranC",81.175,96.050
+402,12716228,"Grace Slick & The Great Society","Didn't Think So","http://www.last.fm/music/grace%2bslick%2b%2526%2bthe%2bgreat%2bsociety/_/didn%2527t%2bthink%2bso","spotify:track:4mKfC5qkABwGYi2nhtCiCY",30.000,59.925
+403,12950899,"Barbra Streisand","Just Leave Everything To Me","http://www.last.fm/music/barbra%2bstreisand/_/just%2bleave%2beverything%2bto%2bme","spotify:track:1YMlAOi6jPyyFJrl2stNRR",30.025,59.950
+404,13251246,"Tom Griesgraber","Waking the Day","http://www.last.fm/music/tom%2bgriesgraber/_/waking%2bthe%2bday","spotify:track:73zNM1x82MkC8qQArVAn3n",30.025,59.950
+405,14356073,"The Temperance Seven","You're Driving Me Crazy","http://www.last.fm/music/the%2btemperance%2bseven/_/you%2527re%2bdriving%2bme%2bcrazy","spotify:track:1w1mIkARzun0p8UJbDuCw1",30.675,60.600
+406,14603185,"Jaga Jazzist","Swedenborgske Rom","http://www.last.fm/music/jaga%2bjazzist/_/swedenborgske%2brom","spotify:track:1urwgm944IlPX2AbSLRXOF",234.000,248.875
+407,14736192,"The Bravery","The Ring Song","http://www.last.fm/music/the%2bbravery/_/the%2bring%2bsong","spotify:track:0vLj7LYlhYiKU6UlIqqzAP",30.000,59.925
+408,14766628,"Joshua Radin","Closer","http://www.last.fm/music/joshua%2bradin/_/closer","spotify:track:2GYR1loJ04mik2kwuKylLC",30.900,60.825
+409,14964047,"Great Lake Swimmers","Bodies and Minds","http://www.last.fm/music/great%2blake%2bswimmers/_/bodies%2band%2bminds","spotify:track:1wUWAPzyXG92X5oOBQJj2M",30.000,59.925
+410,15466719,"Blackfield","Epidemic","http://www.last.fm/music/blackfield/_/epidemic","spotify:track:6xzwa08phAnHE4DCbU0uzs",133.125,148.000
+411,15702468,"Garbage","Boys Wanna Fight","http://www.last.fm/music/garbage/_/boys%2bwanna%2bfight","spotify:track:6KfcWZnerQoxtLBJEGqIB4",43.050,57.975
+412,16170226,"Tanita Tikaram","Play Me Again","http://www.last.fm/music/tanita%2btikaram/_/play%2bme%2bagain","spotify:track:4XFMQphxt93YBSfuPj0iRu",84.100,98.975
+413,16187294,"Celtic Woman","She Moved Thru' the Fair","http://www.last.fm/music/celtic%2bwoman/_/she%2bmoved%2bthru%2527%2bthe%2bfair","spotify:track:5LaSMvbGDfAlZEabjLixR6",75.575,90.450
+414,16689895,"Inactive Messiah","Building Your God","http://www.last.fm/music/inactive%2bmessiah/_/building%2byour%2bgod","spotify:track:1vv1BKYl4MtMyv1e63sP5H",29.975,59.900
+415,17549813,"The White Stripes","My Doorbell","http://www.last.fm/music/the%2bwhite%2bstripes/_/my%2bdoorbell","spotify:track:7edcGJmrKfDKEL3nSJtPWA",104.150,119.075
+416,17805855,"Niyaz","Allahi Allah","http://www.last.fm/music/niyaz/_/allahi%2ballah","spotify:track:6qPoe7dbt2r73AIjfIhbpd",60.000,89.950
+417,18310044,"Psapp","Eating Spiders","http://www.last.fm/music/psapp/_/eating%2bspiders","spotify:track:1K2uwoslvrAJ0XGSMz4kxY",0.125,15.000
+418,18601352,"A Day To Remember","You Had Me At Hello","http://www.last.fm/music/a%2bday%2bto%2bremember/_/you%2bhad%2bme%2bat%2bhello","spotify:track:0glqaq92TYIFXJFwamOgL3",30.000,59.925
+419,19286630,"Cachorro Grande","Desentoa","http://www.last.fm/music/cachorro%2bgrande/_/desentoa","spotify:track:7Gs5nN5yF8FLjMawO3CSL3",30.025,59.950
+420,19563481,"Lizz Wright","Hit The Ground","http://www.last.fm/music/lizz%2bwright/_/hit%2bthe%2bground","spotify:track:54TscaSrMp9UwySVzeqioe",30.000,59.925
+421,19575002,"Felix Laband","Whistling In Tongues","http://www.last.fm/music/felix%2blaband/_/whistling%2bin%2btongues","spotify:track:2OhkKcJIDpVKQO8kb8hxxK",437.250,467.200
+422,19802390,"Eric Burdon","Rocky","http://www.last.fm/music/eric%2bburdon/_/rocky","spotify:track:58hvYNf6SYuBagoMJ2CyyV",30.025,59.950
+423,19873391,"Faun","Loibere Risen","http://www.last.fm/music/faun/_/loibere%2brisen","spotify:track:3l2YZXYMolnpi2j6ahts5Q",30.075,60.000
+424,19941013,"Bourbon Princess","Jerkoff","http://www.last.fm/music/bourbon%2bprincess/_/jerkoff","spotify:track:5Hwg4vdUkQqhfVj95bSWOJ",30.000,59.925
+425,20249215,"System of a Down","Lonely Day","http://www.last.fm/music/system%2bof%2ba%2bdown/_/lonely%2bday","spotify:track:1VNWaY3uNfoeWqb5U8x2QX",29.975,59.900
+426,20707181,"Anna Ternheim","China Girl","http://www.last.fm/music/anna%2bternheim/_/china%2bgirl","spotify:track:4SPmi1U0FFI5PH3fV8VZJj",30.125,60.050
+427,20819291,"Children of Bodom","Are You Dead Yet?","http://www.last.fm/music/children%2bof%2bbodom/_/are%2byou%2bdead%2byet%253f","spotify:track:7i6UQPAHgqgMGJJK7elUGS",30.000,59.925
+428,21107887,"Pretty Balanced","Simon's Sleeping","http://www.last.fm/music/pretty%2bbalanced/_/simon%2527s%2bsleeping","spotify:track:1avPeEFgyKlGQn30cxcsg3",30.000,59.925
+429,21168934,"Raheem DeVaughn","Breathe","http://www.last.fm/music/raheem%2bdevaughn/_/breathe","spotify:track:5pu1XBP2V2fXAeKEwf5TBj",30.000,59.925
+430,22104061,"Deep Dish","Sergio's Theme","http://www.last.fm/music/deep%2bdish/_/sergio%2527s%2btheme","spotify:track:3c3cz6VklnAnjyajBOL90O",60.000,89.950
+431,22145437,"Final Fantasy","Song Song Song","http://www.last.fm/music/final%2bfantasy/_/song%2bsong%2bsong","spotify:track:07IwqfrmfNLKgmOyhr13YV",43.050,57.975
+432,22710298,"Broadcast","I Found the F","http://www.last.fm/music/broadcast/_/i%2bfound%2bthe%2bf","spotify:track:3fSps53A2agi4sDU84AEmQ",39.100,53.975
+433,22794154,"Melanie","Look What They've Done To My Song, Ma","http://www.last.fm/music/melanie/_/look%2bwhat%2bthey%2527ve%2bdone%2bto%2bmy%2bsong%252c%2bma","spotify:track:5mpbBUcNz72np4ILKIQRBz",29.900,59.825
+434,23044110,"Quietdrive","Time After Time","http://www.last.fm/music/quietdrive/_/time%2bafter%2btime","spotify:track:5i17G48swlxfwtQKeq5xcF",77.150,92.025
+435,23114638,"dEUS","Pocket Revolution","http://www.last.fm/music/deus/_/pocket%2brevolution","spotify:track:5tIjsyULxpO1bubvdOY6cK",60.000,89.950
+436,23120619,"Sohodolls","Stripper","http://www.last.fm/music/sohodolls/_/stripper","spotify:track:0F8E4kCBDt1AGhcHZ64GfJ",77.125,92.000
+437,23278394,"Scum","Protest Life","http://www.last.fm/music/scum/_/protest%2blife","spotify:track:6DDY47xOzskIxFcNAa6onq",59.975,89.925
+438,24161997,"Foo Fighters","Home","http://www.last.fm/music/foo%2bfighters/_/home","spotify:track:2fDVMNQmFuMORDD3dP7GkN",30.000,59.925
+439,24166803,"Disturbed","Pain Redefined","http://www.last.fm/music/disturbed/_/pain%2bredefined","spotify:track:4H6qtMPzKYRCsf7bT2DcBP",30.000,59.925
+440,24710182,"New Classic Singers","No Matter What Shape (Your Stomach's In) / Tijuana Taxi","http://www.last.fm/music/new%2bclassic%2bsingers/_/no%2bmatter%2bwhat%2bshape%2b%2528your%2bstomach%2527s%2bin%2529%2b%252f%2btijuana%2btaxi","spotify:track:0CPart5aAQmOuWgowGFyX9",30.400,60.325
+441,25204015,"a-ha","Celice","http://www.last.fm/music/a-ha/_/celice","spotify:track:4Mqc3cgEUySnaz3qNB4WbU",30.025,59.950
+442,25455040,"Boards of Canada","A Moment of Clarity","http://www.last.fm/music/boards%2bof%2bcanada/_/a%2bmoment%2bof%2bclarity","spotify:track:6OzOsP5Ftn3osfuCvSxnYr",0.100,14.975
+443,26464495,"Sky Eats Airplane","She Is Just A Glitch","http://www.last.fm/music/sky%2beats%2bairplane/_/she%2bis%2bjust%2ba%2bglitch","spotify:track:6HJGzN7BdmCHoCvYjma1Rc",30.025,59.950
+444,27739201,"Feathers","To Each His Own","http://www.last.fm/music/feathers/_/to%2beach%2bhis%2bown","spotify:track:3BziqiY3jcgcMvm0dMKn6J",30.000,59.925
+445,28340725,"Josh Ritter","Thin Blue Flame","http://www.last.fm/music/josh%2britter/_/thin%2bblue%2bflame","spotify:track:44Wbt0HW7fKFgJTmlSAqB2",65.125,95.075
+446,28878096,"Escape Key","The Girl That's Never Been","http://www.last.fm/music/escape%2bkey/_/the%2bgirl%2bthat%2527s%2bnever%2bbeen","spotify:track:4oD21Zm3NyEgwKfFAx5gr9",30.000,59.925
+447,29492162,"Ashlee Simpson","Eyes Wide Open","http://www.last.fm/music/ashlee%2bsimpson/_/eyes%2bwide%2bopen","spotify:track:3Nb8fcW8hrlJKcqGIRdF8d",30.000,59.925
+448,30326244,"Robin McKelle","You Brought a New Kind Of Love","http://www.last.fm/music/robin%2bmckelle/_/you%2bbrought%2ba%2bnew%2bkind%2bof%2blove","spotify:track:4sipPcjJUcnw0ZY61s3DAa",30.025,59.950
+449,30353873,"Holy Fuck","Tone Bank Jungle","http://www.last.fm/music/holy%2bfuck/_/tone%2bbank%2bjungle","spotify:track:1H0ckoXyQxUX4PUyhTsoUu",59.975,89.925
+450,30707201,"Hott 22","I Feel Love","http://www.last.fm/music/hott%2b22/_/i%2bfeel%2blove","spotify:track:2MfaHhtlFNm4HBJ63P47t4",59.975,89.925
+451,31410843,"Take 6","Feels Good","http://www.last.fm/music/take%2b6/_/feels%2bgood","spotify:track:4xHtY0XfH55Oqj2VuJG6om",30.000,59.925
+452,31586372,"Sophie Solomon","Holy Devil","http://www.last.fm/music/sophie%2bsolomon/_/holy%2bdevil","spotify:track:0wpkf0ZrckOSngff53ggEq",30.000,59.925
+453,32735194,"Shakira","Costume Makes the Clown","http://www.last.fm/music/shakira/_/costume%2bmakes%2bthe%2bclown","spotify:track:1eSSXLtJUOsjllPfmv8iTl",30.000,59.925
+454,33501801,"Soundpool","On High","http://www.last.fm/music/soundpool/_/on%2bhigh","spotify:track:3UqJ0TTT3WSe9k5VNipZDv",59.975,89.925
+455,34221494,"Mikromusic","Dobrze jest","http://www.last.fm/music/mikromusic/_/dobrze%2bjest","spotify:track:1CJCYtMDf0F5JGIhxpgpew",78.200,108.125
+456,34831038,"Katatonia","Increase","http://www.last.fm/music/katatonia/_/increase","spotify:track:0Z3d9ppTm5gdbwZZdmRcFr",30.100,60.025
+457,35176968,"The Weepies","World Spins Madly On","http://www.last.fm/music/the%2bweepies/_/world%2bspins%2bmadly%2bon","spotify:track:2r07lezrHUPEuhhBYW9JnC",29.975,59.900
+458,38860861,"The Knife","The Captain","http://www.last.fm/music/the%2bknife/_/the%2bcaptain","spotify:track:1WdmcvH7EyubftWUDYFT1x",60.050,90.000
+459,39125228,"Lordi","The Deadite Girls Gone Wild","http://www.last.fm/music/lordi/_/the%2bdeadite%2bgirls%2bgone%2bwild","spotify:track:5eCL71R1FeyKx7zurqicrM",29.325,59.250
+460,40424773,"Korn","All In The Family","http://www.last.fm/music/korn/_/all%2bin%2bthe%2bfamily","spotify:track:6gpFtRYB562i3c7YSbH887",30.000,59.925
+461,40799363,"Billie Jo Spears","Fever","http://www.last.fm/music/billie%2bjo%2bspears/_/fever","spotify:local:Billie+Jo+Spears:Billie+Jo+Spears%3a+The+Best+of+the+Best:Fever:176",30.200,60.125
+462,41806635,"Emilana Torrini","Heartstopper","http://www.last.fm/music/emil%25c3%25adana%2btorrini/_/heartstopper","spotify:track:2hk6GaLo88w6beE2HQD2dA",59.175,74.050
+463,42202434,"Gary Numan","Melt","http://www.last.fm/music/gary%2bnuman/_/melt","spotify:track:1uZEufDKeUcr9OfP4wuKSG",10.850,40.800
+464,43042654,"Drop Dead, Gorgeous","Dressed For Friend Requests","http://www.last.fm/music/drop%2bdead%252c%2bgorgeous/_/dressed%2bfor%2bfriend%2brequests","spotify:track:3E52b2s2M0tOtBKkXsNFrq",30.025,59.950
+465,45072465,"Hari Mata Hari","Lejla","http://www.last.fm/music/hari%2bmata%2bhari/_/lejla","spotify:track:15MOPm5cISWn9VhVOr6tAT",25.475,55.400
+466,46039648,"Angtoria","God Has a Plan for Us All","http://www.last.fm/music/angtoria/_/god%2bhas%2ba%2bplan%2bfor%2bus%2ball","spotify:track:7CV5aiHDbhxZ7GaVm26HyU",30.000,59.925
+467,46761422,"Trez Montcalm","Sweet Dreams","http://www.last.fm/music/t%25c3%25a9rez%2bmontcalm/_/sweet%2bdreams","spotify:track:6SPxQqPjeJDZkylrTvHGJ7",90.175,105.050
+468,46893528,"Cibelle","Flying High","http://www.last.fm/music/cibelle/_/flying%2bhigh","spotify:track:4GBOMEpi82OaVUnM1MUFl6",179.175,194.050
+469,46971557,"The Kilimanjaro Darkjazz Ensemble","Lobby","http://www.last.fm/music/the%2bkilimanjaro%2bdarkjazz%2bensemble/_/lobby","spotify:track:13Qhilbj0bQjJ77glV2ZYC",59.975,89.925
+470,47677067,"The Bad Things","Kill Yourself","http://www.last.fm/music/the%2bbad%2bthings/_/kill%2byourself","spotify:track:2amwOYWumIOmgk0ubmknGm",30.000,59.925
+471,48461091,"Crystal Castles","Untrust Us","http://www.last.fm/music/crystal%2bcastles/_/untrust%2bus","spotify:track:3q2yH1T78FptWtAmCpQlrG",61.175,76.050
+472,48506235,"Burial","Wounder","http://www.last.fm/music/burial/_/wounder","spotify:track:0Aj8mzJPCU1HI6K5vH9jYx",30.000,59.925
+473,50511058,"Paul Simon","Everything About It Is A Love Song","http://www.last.fm/music/paul%2bsimon/_/everything%2babout%2bit%2bis%2ba%2blove%2bsong","spotify:track:34hxA4CaRqgKJwMf46zL9v",30.000,59.925
+474,50652909,"Keane","Crystal Ball","http://www.last.fm/music/keane/_/crystal%2bball","spotify:track:0pDrF1bqntG7j3BYRblxvh",30.000,59.925
+475,51700135,"Callisto","Woven Hands","http://www.last.fm/music/callisto/_/woven%2bhands","spotify:track:6wCdfsSXYUIILr5mw5sWYS",59.975,89.925
+476,52586839,"Sufjan Stevens","No Man's Land","http://www.last.fm/music/sufjan%2bstevens/_/no%2bman%2527s%2bland","spotify:track:3hfa4rYHsd7mAPTI1KbE6l",111.175,126.050
+477,52918498,"Gotye","Hearts a Mess","http://www.last.fm/music/gotye/_/hearts%2ba%2bmess","spotify:track:68N9UtxjfjnB5CKN4jbguA",59.950,89.900
+478,53245828,"Thom Yorke","Analyse","http://www.last.fm/music/thom%2byorke/_/analyse","spotify:track:2jiH6Cmj3vJyfTlWPPuBQy",108.100,123.025
+479,54107926,"Trivium","The Crusade","http://www.last.fm/music/trivium/_/the%2bcrusade","spotify:track:0yfPXnLqa88Ge8V3d7MI1f",60.000,89.950
+480,54840026,"Roger Cicero","Ich atme ein (New Version)","http://www.last.fm/music/roger%2bcicero/_/ich%2batme%2bein%2b%2528new%2bversion%2529","spotify:track:6boMS0R6H6Bi8TcbHILfQk",29.950,59.875
+481,55091913,"Boys Like Girls","Hero/Heroine","http://www.last.fm/music/boys%2blike%2bgirls/_/hero%252fheroine","spotify:track:1AnesEZjtNHT7Nr2Y4BuNR",30.000,59.925
+482,56356008,"Dashboard Confessional","Dusk And Summer","http://www.last.fm/music/dashboard%2bconfessional/_/dusk%2band%2bsummer","spotify:track:3DQLWvztasjNKCq3qK433E",30.025,59.950
+483,57341376,"Koop","Come To Me","http://www.last.fm/music/koop/_/come%2bto%2bme","spotify:track:5T8Czk2nF3VExTwXccFyor",53.100,67.975
+484,57611633,"Young Galaxy","Searchlight","http://www.last.fm/music/young%2bgalaxy/_/searchlight","spotify:track:4T8amd974pNvpV6qDHL3iW",30.000,59.925
+485,58830157,"Amy Winehouse","Rehab","http://www.last.fm/music/amy%2bwinehouse/_/rehab","spotify:local:Amy+Winehouse:iTunes+Festival%3a+London+2007+-+EP:Rehab:226",30.025,44.950
+486,59341200,"Walls of Jericho","No Saving Me","http://www.last.fm/music/walls%2bof%2bjericho/_/no%2bsaving%2bme","spotify:track:0FjzqEGYw9LKVZ4vcsxlq9",30.000,59.925
+487,62494905,"Just Jack","I Talk Too Much","http://www.last.fm/music/just%2bjack/_/i%2btalk%2btoo%2bmuch","spotify:track:3uHQ3C9WfoEoB0OZLWm4aS",29.825,59.750
+488,63377522,"Globus","Crusaders of the Light","http://www.last.fm/music/globus/_/crusaders%2bof%2bthe%2blight","spotify:track:6wJNeviwsMibVxBEo8rRiz",60.025,89.975
+489,64646610,"Horse Feathers","Walking & Running","http://www.last.fm/music/horse%2bfeathers/_/walking%2b%2526%2brunning","spotify:track:7BK0z2oIRjG7mXhJDFWXCb",30.000,59.925
+490,66346360,"Charlotte Gainsbourg","Night-Time Intermission","http://www.last.fm/music/charlotte%2bgainsbourg/_/night-time%2bintermission","spotify:track:0zNT6lnWVMb6d4AQGmD4bD",43.050,57.975
+491,66900088,"Kate Voegele","Chicago","http://www.last.fm/music/kate%2bvoegele/_/chicago","spotify:track:30Q5iu8RQvISp5moojUh9u",30.000,59.925
+492,68199113,"Rio En Medio","Everyone is Someone's","http://www.last.fm/music/rio%2ben%2bmedio/_/everyone%2bis%2bsomeone%2527s","spotify:track:2xHD6HcDaEaUDpKedkAH69",30.000,59.925
+493,68610338,"Matt & Kim","No More Long Years","http://www.last.fm/music/matt%2b%2526%2bkim/_/no%2bmore%2blong%2byears","spotify:track:2LxXLrU18VDAIVnsoSmuYL",29.975,59.900
+494,69129303,"Mordacious","I Don't Care","http://www.last.fm/music/mordacious/_/i%2bdon%2527t%2bcare","spotify:track:5f8h1ua0oz7CQvYq05rnxj",30.000,59.925
+495,69790769,"Damien Rice","Sleep Don't Weep","http://www.last.fm/music/damien%2brice/_/sleep%2bdon%2527t%2bweep","spotify:track:19pqIjSMdTYpbMVjpJ7ucz",158.050,172.975
+496,72006119,"Rosie Thomas","Much Farther to Go","http://www.last.fm/music/rosie%2bthomas/_/much%2bfarther%2bto%2bgo","spotify:track:6kqaNwCVj84Z9wz1fQYtH6",59.975,89.925
+497,73366401,"Tarot","Tides","http://www.last.fm/music/tarot/_/tides","spotify:track:25CwsoQkoMR4756QWfkJzm",151.125,166.000
+498,73828767,"Sinister Trailerpark Magic","Own Alone","http://www.last.fm/music/sinister%2btrailerpark%2bmagic/_/own%2balone","spotify:track:6o9EUFUOFlmt9ayH2SS6Wt",59.950,89.900
+499,77586890,"Norah Jones","My Dear Country","http://www.last.fm/music/norah%2bjones/_/my%2bdear%2bcountry","spotify:track:308ooqpnPoO04JbfDalCNy",86.175,101.050
+500,79317864,"LCD Soundsystem","Someone Great","http://www.last.fm/music/lcd%2bsoundsystem/_/someone%2bgreat","spotify:track:2VGDntFPvgvqSiUf9ITEfW",173.650,188.525
+501,79492996,"!!!","Myth Takes","http://www.last.fm/music/%2521%2521%2521/_/myth%2btakes","spotify:local:%21%21%21:Myth+Takes:Myth+Takes:144",41.100,55.975
+502,79999445,"The Cinematic Orchestra","That Home","http://www.last.fm/music/the%2bcinematic%2borchestra/_/that%2bhome","spotify:track:6q4c1vPRZREh7nw3wG7Ixz",37.100,51.975
+503,80517451,"Threshold","Rising","http://www.last.fm/music/threshold/_/rising","spotify:track:2HVKSZiy4KVEWFdXQVmLo5",30.000,59.925
+504,83812404,"John Most","Five","http://www.last.fm/music/john%2bmost/_/five","spotify:track:2QUj1Ry4C8Qyjmo2kS4ksN",9.850,36.875
+505,84210676,"Car Bomb","Cellophane Stiletto","http://www.last.fm/music/car%2bbomb/_/cellophane%2bstiletto","spotify:track:5Yqu1b8gfHt5v2piNqg7he",30.000,59.925
+506,85902938,"Avril Lavigne","When You're Gone","http://www.last.fm/music/avril%2blavigne/_/when%2byou%2527re%2bgone","spotify:track:4kxND2rbPDrdb7Sgoo1Fbh",48.300,63.225
+507,86630473,"Familjen","Huvudet i sanden","http://www.last.fm/music/familjen/_/huvudet%2bi%2bsanden","spotify:track:2NpVkp83gstubsKFAfFVDj",30.000,59.925
+508,86899886,"Bright Eyes","If The Brakeman Turns My Way","http://www.last.fm/music/bright%2beyes/_/if%2bthe%2bbrakeman%2bturns%2bmy%2bway","spotify:track:4mbMthTd6Ch0l9flHTTjcD",29.975,59.900
+509,90577892,"Muscles","Sweaty","http://www.last.fm/music/muscles/_/sweaty","spotify:track:79ot5sieeixJQIqKPJniHb",29.850,44.775
+510,92440583,"Hilary Duff","Dignity","http://www.last.fm/music/hilary%2bduff/_/dignity","spotify:track:3FEn8H9a2aErK1RCey3xpw",79.175,94.050
+511,92480744,"PlayRadioPlay!","Confines Of Gravity","http://www.last.fm/music/playradioplay%2521/_/confines%2bof%2bgravity","spotify:track:0MoMAIq4S7oDpT16CdVhBn",30.000,59.925
+512,94421784,"Hannah Montana","Nobody's Perfect","http://www.last.fm/music/hannah%2bmontana/_/nobody%2527s%2bperfect","spotify:track:1xdc2EoQKJfuv6WRhIpW0V",83.175,98.050
+513,94448295,"Corinne Bailey Rae","Since I've Been Loving You (Live At Webster Hall)","http://www.last.fm/music/corinne%2bbailey%2brae/_/since%2bi%2527ve%2bbeen%2bloving%2byou%2b%2528live%2bat%2bwebster%2bhall%2529","spotify:track:32Ju5rvS08C5xYqe3YVm1i",142.075,156.950
+514,94876470,"The Outlaws","Sweet Home Alabama","http://www.last.fm/music/the%2boutlaws/_/sweet%2bhome%2balabama","spotify:track:4j6ds4kGQoJNOilPvpp9Lw",167.100,197.025
+515,96374857,"Paradise Lost","The Enemy","http://www.last.fm/music/paradise%2blost/_/the%2benemy","spotify:track:7rRF0nhrAievNKf95vSOiV",93.175,108.050
+516,96840102,"Louis Botella","Rumba Buena (David Vendetta's Cuba Remix)","http://www.last.fm/music/louis%2bbotella/_/rumba%2bbuena%2b%2528david%2bvendetta%2527s%2bcuba%2bremix%2529","spotify:track:1DKyxdyz5hkFs2z7OIRktE",59.950,89.900
+517,98324142,"Caribou","Sandy","http://www.last.fm/music/caribou/_/sandy","spotify:track:2XF86ThTSceBxe37jeFAdP",30.000,59.925
+518,98904750,"Amy Macdonald","L.A.","http://www.last.fm/music/amy%2bmacdonald/_/l.a.","spotify:track:6Vji2PXb6L9R9RF84dmAa0",30.000,59.925
+519,99493715,"Dolls Of Pain","Douleur","http://www.last.fm/music/dolls%2bof%2bpain/_/douleur","spotify:track:6jJC3oyCoH9Z9rdKUCleDR",59.975,89.925
+520,102461436,"Lisa Gerrard","Black Forest","http://www.last.fm/music/lisa%2bgerrard/_/black%2bforest","spotify:track:04G5emtet4UhSYdBntZLhM",30.000,59.925
+521,104930943,"Desiderii Marginis","Constant Like the Northern Star","http://www.last.fm/music/desiderii%2bmarginis/_/constant%2blike%2bthe%2bnorthern%2bstar","spotify:track:1nKn8y1fzAjtjER2PcUV1L",59.975,89.925
+522,105113718,"A Fine Frenzy","The Minnow &amp; the Trout","http://www.last.fm/music/a%2bfine%2bfrenzy/_/the%2bminnow%2b%2526amp%253b%2bthe%2btrout","spotify:track:6CBxwyWcyHYmZTrdpOIUfX",117.175,132.050
+523,107287145,"Amorphis","Her Alone","http://www.last.fm/music/amorphis/_/her%2balone","spotify:track:64Elkn41sfsxE8aMAeZ3Zy",165.175,180.050
+524,107471983,"The Rocket Summer","High Life Scenery","http://www.last.fm/music/the%2brocket%2bsummer/_/high%2blife%2bscenery","spotify:track:4qNqUXIAvDsFWSO6NPnU2k",30.000,59.925
+525,108739199,"Sabri Brothers","Jitna Diya Sarkar Ne Mujhko","http://www.last.fm/music/sabri%2bbrothers/_/jitna%2bdiya%2bsarkar%2bne%2bmujhko","spotify:track:4h0STNp3yJ7JC4byGF7Yfy",122.475,152.425
+526,109606963,"The Puppini Sisters","Crazy In Love","http://www.last.fm/music/the%2bpuppini%2bsisters/_/crazy%2bin%2blove","spotify:track:6ViKJSmm5my0mp86iBAkES",30.025,59.950
+527,110678019,"Josh Turner","Firecracker","http://www.last.fm/music/josh%2bturner/_/firecracker","spotify:track:29i4wMtoPDL1PFSdEYoyqV",30.050,59.975
+528,111012145,"Dave Gahan","Miracles","http://www.last.fm/music/dave%2bgahan/_/miracles","spotify:track:4xsTg4iUo0toRArC8i1J77",123.175,138.050
+529,111190701,"Metaform","Lonely Boy","http://www.last.fm/music/metaform/_/lonely%2bboy","spotify:track:4oLZeEPSOhonaAzjyL6i2t",30.000,59.925
+530,111530121,"Mark Knopfler","The Scaffolder's Wife","http://www.last.fm/music/mark%2bknopfler/_/the%2bscaffolder%2527s%2bwife","spotify:track:41pOrHwoD99nubMps6WOsa",30.000,59.925
+531,115862217,"Girls Aloud","Sexy! No No No...","http://www.last.fm/music/girls%2baloud/_/sexy%2521%2bno%2bno%2bno...","spotify:track:7Mur8vmVwk5YBikpaOns45",66.150,81.025
+532,117099086,"Laura Marling","Night Terror","http://www.last.fm/music/laura%2bmarling/_/night%2bterror","spotify:track:5laIaz7LNoAgzanAoWxZh3",78.175,93.050
+533,117463728,"M83","The Highest Journey","http://www.last.fm/music/m83/_/the%2bhighest%2bjourney","spotify:track:1QM0OkjT1RrliLdnM4vwaD",231.175,246.050
+534,117807218,"Apocalyptica","Peace","http://www.last.fm/music/apocalyptica/_/peace","spotify:track:214VhcOmU2rirPZMMG7zq4",48.425,63.350
+535,118078164,"Devendra Banhart","Bad Girl","http://www.last.fm/music/devendra%2bbanhart/_/bad%2bgirl","spotify:track:59kOY0oSqKp0YydgoLL9bS",127.175,142.050
+536,120912192,"Risn Murphy","Scarlet Ribbons","http://www.last.fm/music/r%25c3%25b3is%25c3%25adn%2bmurphy/_/scarlet%2bribbons","spotify:track:52yKyfM8GK6HtdirNqncCq",151.175,166.050
+537,121595735,"Gabriella Cilmi","Sweet About Me","http://www.last.fm/music/gabriella%2bcilmi/_/sweet%2babout%2bme","spotify:track:1rvfouqZltw1nnKTW2eK1e",31.825,61.750
+538,122362175,"Fleet Foxes","Meadowlarks","http://www.last.fm/music/fleet%2bfoxes/_/meadowlarks","spotify:track:616MsreaiBD9TpkqdbpNHM",29.950,59.875
+539,122920547,"Eddie Vedder","Guaranteed","http://www.last.fm/music/eddie%2bvedder/_/guaranteed","spotify:track:5tqceMbQz3Isjt1YUbZol1",59.975,89.925
+540,125434571,"Britney Spears","Gimme More","http://www.last.fm/music/britney%2bspears/_/gimme%2bmore","spotify:track:0R1ft2cH6L2ytWvytosdp8",176.225,206.150
+541,126939265,"This Will Destroy You","A Three-Legged Workhorse","http://www.last.fm/music/this%2bwill%2bdestroy%2byou/_/a%2bthree-legged%2bworkhorse","spotify:track:2hERMN4Fl5CdlEWiWrCLEX",59.975,89.925
+542,128549010,"Avantasia","Lost In Space","http://www.last.fm/music/avantasia/_/lost%2bin%2bspace","spotify:track:1GhCTXvTM3WBgfWCKtdexG",59.950,74.825
+543,130264566,"Roberto Cacciapaglia","Olimpica","http://www.last.fm/music/roberto%2bcacciapaglia/_/olimpica","spotify:track:1JphT6c3islt6660bUHt1h",30.000,59.925
+544,131020954,"Boney James","Santa Baby","http://www.last.fm/music/boney%2bjames/_/santa%2bbaby","spotify:track:3SnDU5UXX7Ek0O3RS0PX91",30.025,59.950
+545,133780140,"Modwheelmood","MHz","http://www.last.fm/music/modwheelmood/_/mhz","spotify:track:1zrnOxv26lJZp1iIsVVln1",31.075,61.000
+546,137286908,"The Script","We Cry","http://www.last.fm/music/the%2bscript/_/we%2bcry","spotify:track:1mc7586oRaKkhLKWzrOIIb",30.000,59.925
+547,137312052,"Robots In Disguise","The Sex Has Made Me Stupid (Stupid Sex Midfield General mix)","http://www.last.fm/music/robots%2bin%2bdisguise/_/the%2bsex%2bhas%2bmade%2bme%2bstupid%2b%2528stupid%2bsex%2bmidfield%2bgeneral%2bmix%2529","spotify:track:44BCFtMFYkOPoYTCbIztGE",30.000,59.925
+548,139242393,"Opeth","Bleak","http://www.last.fm/music/opeth/_/bleak","spotify:track:294Qb8EGfUjmZhaxROiLiV",60.000,89.950
+549,141310360,"Shelby Lynne","I Don't Want To Hear It Anymore","http://www.last.fm/music/shelby%2blynne/_/i%2bdon%2527t%2bwant%2bto%2bhear%2bit%2banymore","spotify:track:07MpXRn8QLfzkfK0qSv6sF",30.000,59.925
+550,141320968,"Lady Gaga","Brown Eyes","http://www.last.fm/music/lady%2bgaga/_/brown%2beyes","spotify:track:7L8fCQ95BlfsyMPQGKq7Sd",30.000,59.925
+551,149634050,"Blake Lewis","I Got U","http://www.last.fm/music/blake%2blewis/_/i%2bgot%2bu","spotify:track:6Ooh4MZTznUgBlDpKvtfMK",30.000,59.925
+552,149978797,"Mumford & Sons","Roll Away Your Stone","http://www.last.fm/music/mumford%2b%2526%2bsons/_/roll%2baway%2byour%2bstone","spotify:track:5tjU4lnY32ws2a69svmw4S",37.850,67.775
+553,150765497,"Hot Chip","We're Looking For A Lot Of Love","http://www.last.fm/music/hot%2bchip/_/we%2527re%2blooking%2bfor%2ba%2blot%2bof%2blove","spotify:track:5BgupWHI2OFTAENzcgWT6V",125.025,139.900
+554,152862191,"Steve Ellington Band","Turn up da bass","http://www.last.fm/music/steve%2bellington%2bband/_/turn%2bup%2bda%2bbass","spotify:track:5GtMhujZVfgaV8AVrjWvIv",30.000,59.925
+555,163932860,"Amos Lee","What's Been Going On","http://www.last.fm/music/amos%2blee/_/what%2527s%2bbeen%2bgoing%2bon","spotify:track:1q2yciMI9xjFWL8ZdiRrEo",111.175,126.050
+556,166108353,"Ladytron","Tomorrow","http://www.last.fm/music/ladytron/_/tomorrow","spotify:track:0kI8VsTNWnTG5IUNYtQTvY",29.975,59.900
+557,175351406,"Menace Ruine","They Who Enter Caves","http://www.last.fm/music/menace%2bruine/_/they%2bwho%2benter%2bcaves","spotify:track:71FBSBrpwECLsdWHGMZmL5",59.975,89.925
+558,178454981,"The Presets","If I Know You","http://www.last.fm/music/the%2bpresets/_/if%2bi%2bknow%2byou","spotify:track:0TBVBbyN1fC9uZMoFlqs3B",30.150,60.075
+559,191207876,"The Prodigy","World's On Fire","http://www.last.fm/music/the%2bprodigy/_/world%2527s%2bon%2bfire","spotify:track:1ADy90y6exDrMXAy8u57Rm",30.000,59.925
+560,195420412,"Heard","Half Asleep/ Half Awake","http://www.last.fm/music/heard/_/half%2basleep%252f%2bhalf%2bawake","spotify:track:0kC7lB05JYYWnbZtJ1IDj2",29.975,59.900
+561,197667448,"Fang Island","Life Coach","http://www.last.fm/music/fang%2bisland/_/life%2bcoach","spotify:track:0j1sRPgS4CYwnqCn4C2B7s",30.000,59.925
+562,205575336,"Bohren & Der Club of Gore","Karin","http://www.last.fm/music/bohren%2b%2526%2bder%2bclub%2bof%2bgore/_/karin","spotify:track:1hAdgsEOEQo7Hw5IgGUhoC",77.175,92.050
+563,207486670,"Jon Hopkins","Light Through the Veins","http://www.last.fm/music/jon%2bhopkins/_/light%2bthrough%2bthe%2bveins","spotify:track:5WNRz0FxQz04OWt4zB5BZg",55.950,85.900
+564,211623726,"Two Door Cinema Club","Something Good Can Work","http://www.last.fm/music/two%2bdoor%2bcinema%2bclub/_/something%2bgood%2bcan%2bwork","spotify:track:7vIBxqsNQZ3PehEFQr1ZGt",30.850,60.775
+565,211919499,"Brandi Carlile","Dreams","http://www.last.fm/music/brandi%2bcarlile/_/dreams","spotify:track:7tII9WD0GztY8w5VDfWbSz",30.000,59.925
+566,212233278,"Jonas Brothers","BB Good","http://www.last.fm/music/jonas%2bbrothers/_/bb%2bgood","spotify:track:4J6vgGJXdMcR65FqvFiNAi",30.000,59.925
+567,217974047,"Fever Ray","If I Had A Heart","http://www.last.fm/music/fever%2bray/_/if%2bi%2bhad%2ba%2bheart","spotify:track:5nuCXCnbKpPOxZ1qXjxcLF",28.950,58.875
+568,219032210,"Monkey","March Of The Iron Army","http://www.last.fm/music/monkey/_/march%2bof%2bthe%2biron%2barmy","spotify:track:6Y8ZoQqEiUwe3dkAQ5ktE5",51.175,66.050
+569,220878232,"Miike Snow","Silvia","http://www.last.fm/music/miike%2bsnow/_/silvia","spotify:track:2IBQFmpFsKwqgE3sTOpyrU",60.075,90.025
+570,225316843,"Fall Out Boy","I Don't Care","http://www.last.fm/music/fall%2bout%2bboy/_/i%2bdon%2527t%2bcare","spotify:track:0WUeIpjYQJPk1vUe9Tu94R",29.850,59.775
+571,227194689,"Stars","A Thread Cut With a Carving Knife","http://www.last.fm/music/stars/_/a%2bthread%2bcut%2bwith%2ba%2bcarving%2bknife","spotify:track:3Mx5Q6PQ9Qn7mRi2uA18TP",59.975,89.925
+572,227782970,"Florence + the Machine","My Boy Builds Coffins","http://www.last.fm/music/florence%2b%252b%2bthe%2bmachine/_/my%2bboy%2bbuilds%2bcoffins","spotify:track:2K8f1rGz0DP7fT9wrNKW7J",30.050,44.975
+573,240662969,"The Killers","Losing Touch","http://www.last.fm/music/the%2bkillers/_/losing%2btouch","spotify:track:7JdTpfuh8qw4SefrSLnswk",30.000,59.925
+574,243085820,"The Twilight Sad","Twenty Four Hours","http://www.last.fm/music/the%2btwilight%2bsad/_/twenty%2bfour%2bhours","spotify:track:18HSriP3AEpN8Fgzve1QRF",60.150,90.150
+575,246823227,"Kanye West","Pinocchio Story (Freestyle Live From Singapore)","http://www.last.fm/music/kanye%2bwest/_/pinocchio%2bstory%2b%2528freestyle%2blive%2bfrom%2bsingapore%2529","spotify:track:6K5AwFCWQVvyLBbzx3m11Y",60.000,89.950
+576,252514830,"Bon Iver","Woods","http://www.last.fm/music/bon%2biver/_/woods","spotify:track:45LMof2ExH739qDRjDgOfc",29.975,59.900
+577,253179852,"My Silver Booster","Piera","http://www.last.fm/music/my%2bsilver%2bbooster/_/piera","spotify:track:5KICaPImiFfrtiWMYONsuN",30.050,59.975
+578,253901968,"The Fray","Never Say Never","http://www.last.fm/music/the%2bfray/_/never%2bsay%2bnever","spotify:track:57uX2vR9j9DNiANDYfXw1i",30.000,59.925
+579,260952433,"Slow Club","I Was Unconscious, It Was A Dream","http://www.last.fm/music/slow%2bclub/_/i%2bwas%2bunconscious%252c%2bit%2bwas%2ba%2bdream","spotify:track:6OGc84PYApoX5jg0QuOOsp",30.000,59.925
+580,261503381,"Phoenix","Fences","http://www.last.fm/music/phoenix/_/fences","spotify:track:53UHcrYwFlqt1WIjb1XzzR",30.000,59.925
+581,265594788,"Edward Sharpe & The Magnetic Zeros","Home","http://www.last.fm/music/edward%2bsharpe%2b%2526%2bthe%2bmagnetic%2bzeros/_/home","spotify:track:10ViidwjGLCfVtGPfdcszR",60.200,90.150
+582,268103194,"Emilie Simon","Alicia","http://www.last.fm/music/emilie%2bsimon/_/alicia","spotify:track:4kqaGRe0zrmV6CkQJE5ACh",30.025,59.950
+583,276755677,"Dropping a Popped Locket","One Night Thing ft Broken Valentine","http://www.last.fm/music/dropping%2ba%2bpopped%2blocket/_/one%2bnight%2bthing%2bft%2bbroken%2bvalentine","spotify:track:4PZOw3tkkhvApfk5VZTvQ6",29.975,59.900
+584,314059777,"Letting Up Despite Great Faults","In Steps","http://www.last.fm/music/letting%2bup%2bdespite%2bgreat%2bfaults/_/in%2bsteps","spotify:track:5eNWh8VCPcuRIOX171kczy",30.000,59.925
+585,318758663,"MGMT","Congratulations","http://www.last.fm/music/mgmt/_/congratulations","spotify:track:6kblAEj0T0312fv5QWsXzo",30.000,59.925
+586,322245645,"Owl City","Umbrella Beach","http://www.last.fm/music/owl%2bcity/_/umbrella%2bbeach","spotify:track:7vS9Z8fzlt7RoKcW0bpzaj",30.000,59.925
+587,325059755,"Noah and the Whale","Instrumental I","http://www.last.fm/music/noah%2band%2bthe%2bwhale/_/instrumental%2bi","spotify:track:6Ljr616APJbaiPikM5if2g",30.000,59.925
+588,326127976,"Breathe Carolina","Velvet","http://www.last.fm/music/breathe%2bcarolina/_/velvet","spotify:track:1tdefEOk7yUw8MlvRRC2Vq",30.000,59.925
+589,332825231,"Jamie Cullum","Don't Stop The Music","http://www.last.fm/music/jamie%2bcullum/_/don%2527t%2bstop%2bthe%2bmusic","spotify:track:7LR87BxVS5GawUHQFJdko5",30.000,59.925
+590,341940992,"Miranda Lambert","Only Prettier","http://www.last.fm/music/miranda%2blambert/_/only%2bprettier","spotify:track:05Rdg52eBYVUy5A55rnz39",30.550,60.475
+591,344856073,"The Lake Isle","Let It All In","http://www.last.fm/music/the%2blake%2bisle/_/let%2bit%2ball%2bin","spotify:track:3xG8jtAY8M4dRDi9YQXQRK",30.000,59.925
+592,350136835,"30 Seconds to Mars","Night of the Hunter","http://www.last.fm/music/30%2bseconds%2bto%2bmars/_/night%2bof%2bthe%2bhunter","spotify:track:7oeSh7VXdNRd3TRrVUeC0v",153.175,168.050
+593,352220800,"Train","This Ain't Goodbye","http://www.last.fm/music/train/_/this%2bain%2527t%2bgoodbye","spotify:track:2SkJxGM4yeADszDjUzffOf",30.000,59.925
+594,357394386,"Adam Lambert","Sleepwalker","http://www.last.fm/music/adam%2blambert/_/sleepwalker","spotify:track:3UOf6OkelpPyXEpXCe1UGJ",29.975,59.900
+595,359680025,"Memoryhouse","To the Lighthouse","http://www.last.fm/music/memoryhouse/_/to%2bthe%2blighthouse","spotify:track:2oLFO28ilaSiNwIWhUDl26",41.175,71.100
+596,362948777,"Angus & Julia Stone","Hold On","http://www.last.fm/music/angus%2b%2526%2bjulia%2bstone/_/hold%2bon","spotify:track:6y6vZ4hzEm5hqEv1qYRfbH",101.175,116.050
+597,387507859,"Red Sparowes","In Every Mind","http://www.last.fm/music/red%2bsparowes/_/in%2bevery%2bmind","spotify:track:1bcc2lbvViVeB9lvL1Pf1v",30.000,59.925
+598,404869799,"Mick Nolan","Shadow of Your Wings","http://www.last.fm/music/mick%2bnolan/_/shadow%2bof%2byour%2bwings","spotify:track:0z5Gq7lXHPbA0L9rG1bfc0",29.950,59.875
+599,474175415,"Emmure","Demons with Ryu","http://www.last.fm/music/emmure/_/demons%2bwith%2bryu","spotify:track:7caEREXjJez9oAZZ3SBMv3",29.950,59.875
+600,486132643,"Anaal Nathrakh","Volenti Non Fit Iniuria","http://www.last.fm/music/anaal%2bnathrakh/_/volenti%2bnon%2bfit%2biniuria","spotify:track:1F21VJoUCPQaijuEAqKSsz",127.875,157.800
